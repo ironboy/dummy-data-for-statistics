@@ -1,0 +1,8002 @@
+[
+  {
+    "firstName": "Alva",
+    "lastName": "Henriksson",
+    "gender": "female",
+    "age": 24,
+    "region": "Malmö",
+    "monthlySalarySEK": 37664
+  },
+  {
+    "firstName": "Livia",
+    "lastName": "Sahlin",
+    "gender": "female",
+    "age": 32,
+    "region": "Stockholm",
+    "monthlySalarySEK": 30213
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Lundgren",
+    "gender": "male",
+    "age": 52,
+    "region": "Stockholm",
+    "monthlySalarySEK": 66903
+  },
+  {
+    "firstName": "Albin",
+    "lastName": "Nordin",
+    "gender": "male",
+    "age": 40,
+    "region": "Göteborg",
+    "monthlySalarySEK": 71217
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Green",
+    "gender": "male",
+    "age": 52,
+    "region": "Malmö",
+    "monthlySalarySEK": 31512
+  },
+  {
+    "firstName": "Elias",
+    "lastName": "Månsson",
+    "gender": "male",
+    "age": 58,
+    "region": "Malmö",
+    "monthlySalarySEK": 53587
+  },
+  {
+    "firstName": "Ida",
+    "lastName": "Hagman",
+    "gender": "female",
+    "age": 18,
+    "region": "Göteborg",
+    "monthlySalarySEK": 36042
+  },
+  {
+    "firstName": "Alvar",
+    "lastName": "Malm",
+    "gender": "male",
+    "age": 26,
+    "region": "Malmö",
+    "monthlySalarySEK": 53300
+  },
+  {
+    "firstName": "Filip",
+    "lastName": "Sandström",
+    "gender": "male",
+    "age": 32,
+    "region": "Göteborg",
+    "monthlySalarySEK": 65014
+  },
+  {
+    "firstName": "Melvin",
+    "lastName": "Antonsson",
+    "gender": "male",
+    "age": 40,
+    "region": "Malmö",
+    "monthlySalarySEK": 34647
+  },
+  {
+    "firstName": "Nora",
+    "lastName": "Svahn",
+    "gender": "female",
+    "age": 62,
+    "region": "Göteborg",
+    "monthlySalarySEK": 124898
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Ahlin",
+    "gender": "female",
+    "age": 62,
+    "region": "Stockholm",
+    "monthlySalarySEK": 68288
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Henningsson",
+    "gender": "female",
+    "age": 23,
+    "region": "Malmö",
+    "monthlySalarySEK": 16173
+  },
+  {
+    "firstName": "Svante",
+    "lastName": "Elofsson",
+    "gender": "male",
+    "age": 24,
+    "region": "Malmö",
+    "monthlySalarySEK": 41159
+  },
+  {
+    "firstName": "Filip",
+    "lastName": "Månsson",
+    "gender": "male",
+    "age": 46,
+    "region": "Göteborg",
+    "monthlySalarySEK": 33185
+  },
+  {
+    "firstName": "Vide",
+    "lastName": "Engström",
+    "gender": "male",
+    "age": 55,
+    "region": "Göteborg",
+    "monthlySalarySEK": 74015
+  },
+  {
+    "firstName": "Ted",
+    "lastName": "Lindmark",
+    "gender": "male",
+    "age": 49,
+    "region": "Stockholm",
+    "monthlySalarySEK": 100846
+  },
+  {
+    "firstName": "Elliot",
+    "lastName": "Sandgren",
+    "gender": "male",
+    "age": 31,
+    "region": "Malmö",
+    "monthlySalarySEK": 52876
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Jönsson",
+    "gender": "male",
+    "age": 19,
+    "region": "Göteborg",
+    "monthlySalarySEK": 62342
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Näslund",
+    "gender": "male",
+    "age": 40,
+    "region": "Stockholm",
+    "monthlySalarySEK": 29112
+  },
+  {
+    "firstName": "Edvin",
+    "lastName": "Nylander",
+    "gender": "male",
+    "age": 31,
+    "region": "Malmö",
+    "monthlySalarySEK": 28913
+  },
+  {
+    "firstName": "Isak",
+    "lastName": "Palm",
+    "gender": "male",
+    "age": 40,
+    "region": "Malmö",
+    "monthlySalarySEK": 70944
+  },
+  {
+    "firstName": "Wilma",
+    "lastName": "Svedberg",
+    "gender": "female",
+    "age": 41,
+    "region": "Malmö",
+    "monthlySalarySEK": 50068
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Malmberg",
+    "gender": "female",
+    "age": 18,
+    "region": "Malmö",
+    "monthlySalarySEK": 30462
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Öman",
+    "gender": "male",
+    "age": 50,
+    "region": "Göteborg",
+    "monthlySalarySEK": 81410
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Nguyen",
+    "gender": "male",
+    "age": 26,
+    "region": "Malmö",
+    "monthlySalarySEK": 22510
+  },
+  {
+    "firstName": "Tuva",
+    "lastName": "Tran",
+    "gender": "female",
+    "age": 33,
+    "region": "Göteborg",
+    "monthlySalarySEK": 48401
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Robertsson",
+    "gender": "male",
+    "age": 44,
+    "region": "Stockholm",
+    "monthlySalarySEK": 38684
+  },
+  {
+    "firstName": "Wilhelm",
+    "lastName": "Ericson",
+    "gender": "male",
+    "age": 38,
+    "region": "Göteborg",
+    "monthlySalarySEK": 79999
+  },
+  {
+    "firstName": "Alicia",
+    "lastName": "Ekdahl",
+    "gender": "female",
+    "age": 48,
+    "region": "Göteborg",
+    "monthlySalarySEK": 27404
+  },
+  {
+    "firstName": "Edith",
+    "lastName": "Gabrielsson",
+    "gender": "female",
+    "age": 62,
+    "region": "Stockholm",
+    "monthlySalarySEK": 48317
+  },
+  {
+    "firstName": "Lilly",
+    "lastName": "Ohlsson",
+    "gender": "female",
+    "age": 20,
+    "region": "Malmö",
+    "monthlySalarySEK": 35760
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Hellberg",
+    "gender": "male",
+    "age": 29,
+    "region": "Stockholm",
+    "monthlySalarySEK": 63681
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Westin",
+    "gender": "male",
+    "age": 59,
+    "region": "Malmö",
+    "monthlySalarySEK": 62953
+  },
+  {
+    "firstName": "Loke",
+    "lastName": "Ahlgren",
+    "gender": "male",
+    "age": 29,
+    "region": "Malmö",
+    "monthlySalarySEK": 34760
+  },
+  {
+    "firstName": "Omar",
+    "lastName": "Olausson",
+    "gender": "male",
+    "age": 53,
+    "region": "Malmö",
+    "monthlySalarySEK": 91325
+  },
+  {
+    "firstName": "Aron",
+    "lastName": "Stenström",
+    "gender": "male",
+    "age": 62,
+    "region": "Göteborg",
+    "monthlySalarySEK": 39705
+  },
+  {
+    "firstName": "Alvar",
+    "lastName": "Blomgren",
+    "gender": "male",
+    "age": 31,
+    "region": "Malmö",
+    "monthlySalarySEK": 24848
+  },
+  {
+    "firstName": "Nils",
+    "lastName": "Emilsson",
+    "gender": "male",
+    "age": 28,
+    "region": "Stockholm",
+    "monthlySalarySEK": 27720
+  },
+  {
+    "firstName": "Alva",
+    "lastName": "Brolin",
+    "gender": "female",
+    "age": 52,
+    "region": "Stockholm",
+    "monthlySalarySEK": 91169
+  },
+  {
+    "firstName": "Nora",
+    "lastName": "Björkman",
+    "gender": "female",
+    "age": 54,
+    "region": "Malmö",
+    "monthlySalarySEK": 89148
+  },
+  {
+    "firstName": "Cleo",
+    "lastName": "Falk",
+    "gender": "female",
+    "age": 55,
+    "region": "Malmö",
+    "monthlySalarySEK": 75377
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Jönsson",
+    "gender": "female",
+    "age": 29,
+    "region": "Stockholm",
+    "monthlySalarySEK": 60684
+  },
+  {
+    "firstName": "Iris",
+    "lastName": "Green",
+    "gender": "female",
+    "age": 38,
+    "region": "Malmö",
+    "monthlySalarySEK": 51705
+  },
+  {
+    "firstName": "Kian",
+    "lastName": "Hellgren",
+    "gender": "male",
+    "age": 57,
+    "region": "Göteborg",
+    "monthlySalarySEK": 33383
+  },
+  {
+    "firstName": "Selma",
+    "lastName": "Carlson",
+    "gender": "female",
+    "age": 41,
+    "region": "Stockholm",
+    "monthlySalarySEK": 70501
+  },
+  {
+    "firstName": "Amir",
+    "lastName": "Mustafa",
+    "gender": "male",
+    "age": 35,
+    "region": "Göteborg",
+    "monthlySalarySEK": 71008
+  },
+  {
+    "firstName": "Nova",
+    "lastName": "Jonasson",
+    "gender": "female",
+    "age": 60,
+    "region": "Malmö",
+    "monthlySalarySEK": 45536
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Lilja",
+    "gender": "male",
+    "age": 53,
+    "region": "Malmö",
+    "monthlySalarySEK": 45357
+  },
+  {
+    "firstName": "Luna",
+    "lastName": "Hermansson",
+    "gender": "female",
+    "age": 47,
+    "region": "Malmö",
+    "monthlySalarySEK": 34534
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Vikström",
+    "gender": "female",
+    "age": 37,
+    "region": "Stockholm",
+    "monthlySalarySEK": 70955
+  },
+  {
+    "firstName": "Mila",
+    "lastName": "Hedström",
+    "gender": "female",
+    "age": 27,
+    "region": "Malmö",
+    "monthlySalarySEK": 48230
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Hedin",
+    "gender": "female",
+    "age": 19,
+    "region": "Malmö",
+    "monthlySalarySEK": 26778
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Lindfors",
+    "gender": "male",
+    "age": 26,
+    "region": "Malmö",
+    "monthlySalarySEK": 21851
+  },
+  {
+    "firstName": "Nils",
+    "lastName": "Bodin",
+    "gender": "male",
+    "age": 57,
+    "region": "Stockholm",
+    "monthlySalarySEK": 69505
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Kristiansson",
+    "gender": "male",
+    "age": 28,
+    "region": "Stockholm",
+    "monthlySalarySEK": 62733
+  },
+  {
+    "firstName": "Luna",
+    "lastName": "Alm",
+    "gender": "female",
+    "age": 34,
+    "region": "Malmö",
+    "monthlySalarySEK": 59535
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Johannesson",
+    "gender": "male",
+    "age": 62,
+    "region": "Malmö",
+    "monthlySalarySEK": 118513
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Sjöström",
+    "gender": "male",
+    "age": 22,
+    "region": "Göteborg",
+    "monthlySalarySEK": 29412
+  },
+  {
+    "firstName": "Nils",
+    "lastName": "Hasan",
+    "gender": "male",
+    "age": 56,
+    "region": "Stockholm",
+    "monthlySalarySEK": 51333
+  },
+  {
+    "firstName": "Svante",
+    "lastName": "Sjöstedt",
+    "gender": "male",
+    "age": 34,
+    "region": "Stockholm",
+    "monthlySalarySEK": 32500
+  },
+  {
+    "firstName": "Edith",
+    "lastName": "Vilhelmsson",
+    "gender": "female",
+    "age": 56,
+    "region": "Göteborg",
+    "monthlySalarySEK": 75616
+  },
+  {
+    "firstName": "Matteo",
+    "lastName": "Birgersson",
+    "gender": "male",
+    "age": 44,
+    "region": "Malmö",
+    "monthlySalarySEK": 92961
+  },
+  {
+    "firstName": "Leon",
+    "lastName": "Vesterlund",
+    "gender": "male",
+    "age": 53,
+    "region": "Göteborg",
+    "monthlySalarySEK": 69111
+  },
+  {
+    "firstName": "Wilhelm",
+    "lastName": "Söderholm",
+    "gender": "male",
+    "age": 57,
+    "region": "Stockholm",
+    "monthlySalarySEK": 40219
+  },
+  {
+    "firstName": "Adrian",
+    "lastName": "Skoglund",
+    "gender": "male",
+    "age": 25,
+    "region": "Göteborg",
+    "monthlySalarySEK": 51702
+  },
+  {
+    "firstName": "Kian",
+    "lastName": "Andersen",
+    "gender": "male",
+    "age": 33,
+    "region": "Göteborg",
+    "monthlySalarySEK": 60850
+  },
+  {
+    "firstName": "Mira",
+    "lastName": "Nord",
+    "gender": "female",
+    "age": 25,
+    "region": "Göteborg",
+    "monthlySalarySEK": 52276
+  },
+  {
+    "firstName": "Ivar",
+    "lastName": "Kvist",
+    "gender": "male",
+    "age": 45,
+    "region": "Stockholm",
+    "monthlySalarySEK": 52578
+  },
+  {
+    "firstName": "Melissa",
+    "lastName": "Blom",
+    "gender": "female",
+    "age": 49,
+    "region": "Stockholm",
+    "monthlySalarySEK": 43055
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Mahmoud",
+    "gender": "male",
+    "age": 33,
+    "region": "Göteborg",
+    "monthlySalarySEK": 38510
+  },
+  {
+    "firstName": "Ivar",
+    "lastName": "Bäckström",
+    "gender": "male",
+    "age": 28,
+    "region": "Göteborg",
+    "monthlySalarySEK": 30299
+  },
+  {
+    "firstName": "Juni",
+    "lastName": "Bäckström",
+    "gender": "female",
+    "age": 22,
+    "region": "Stockholm",
+    "monthlySalarySEK": 28102
+  },
+  {
+    "firstName": "Ludvig",
+    "lastName": "Anderberg",
+    "gender": "male",
+    "age": 32,
+    "region": "Malmö",
+    "monthlySalarySEK": 39217
+  },
+  {
+    "firstName": "Tage",
+    "lastName": "Isaksson",
+    "gender": "male",
+    "age": 28,
+    "region": "Stockholm",
+    "monthlySalarySEK": 42417
+  },
+  {
+    "firstName": "Lukas",
+    "lastName": "Storm",
+    "gender": "male",
+    "age": 45,
+    "region": "Malmö",
+    "monthlySalarySEK": 73758
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Hussein",
+    "gender": "male",
+    "age": 56,
+    "region": "Stockholm",
+    "monthlySalarySEK": 45482
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Blomkvist",
+    "gender": "female",
+    "age": 46,
+    "region": "Göteborg",
+    "monthlySalarySEK": 90897
+  },
+  {
+    "firstName": "Lilly",
+    "lastName": "Hammarström",
+    "gender": "female",
+    "age": 44,
+    "region": "Malmö",
+    "monthlySalarySEK": 43714
+  },
+  {
+    "firstName": "Erik",
+    "lastName": "Alfredsson",
+    "gender": "male",
+    "age": 55,
+    "region": "Malmö",
+    "monthlySalarySEK": 40841
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Kjellberg",
+    "gender": "female",
+    "age": 54,
+    "region": "Stockholm",
+    "monthlySalarySEK": 69408
+  },
+  {
+    "firstName": "Molly",
+    "lastName": "Dahl",
+    "gender": "female",
+    "age": 34,
+    "region": "Malmö",
+    "monthlySalarySEK": 60730
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Axelsson",
+    "gender": "female",
+    "age": 34,
+    "region": "Göteborg",
+    "monthlySalarySEK": 33340
+  },
+  {
+    "firstName": "Melissa",
+    "lastName": "Melin",
+    "gender": "female",
+    "age": 36,
+    "region": "Stockholm",
+    "monthlySalarySEK": 47022
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Haraldsson",
+    "gender": "male",
+    "age": 29,
+    "region": "Malmö",
+    "monthlySalarySEK": 43565
+  },
+  {
+    "firstName": "Ines",
+    "lastName": "Klasson",
+    "gender": "female",
+    "age": 56,
+    "region": "Göteborg",
+    "monthlySalarySEK": 106788
+  },
+  {
+    "firstName": "Ludvig",
+    "lastName": "Roos",
+    "gender": "male",
+    "age": 27,
+    "region": "Malmö",
+    "monthlySalarySEK": 33483
+  },
+  {
+    "firstName": "Esther",
+    "lastName": "Fredriksson",
+    "gender": "female",
+    "age": 49,
+    "region": "Malmö",
+    "monthlySalarySEK": 40049
+  },
+  {
+    "firstName": "Maja",
+    "lastName": "Klasson",
+    "gender": "female",
+    "age": 36,
+    "region": "Stockholm",
+    "monthlySalarySEK": 78356
+  },
+  {
+    "firstName": "Theo",
+    "lastName": "Samuelsson",
+    "gender": "male",
+    "age": 22,
+    "region": "Stockholm",
+    "monthlySalarySEK": 33701
+  },
+  {
+    "firstName": "Isak",
+    "lastName": "Yusuf",
+    "gender": "male",
+    "age": 37,
+    "region": "Malmö",
+    "monthlySalarySEK": 45926
+  },
+  {
+    "firstName": "Agnes",
+    "lastName": "Larsson",
+    "gender": "female",
+    "age": 36,
+    "region": "Stockholm",
+    "monthlySalarySEK": 49288
+  },
+  {
+    "firstName": "Millie",
+    "lastName": "Lidström",
+    "gender": "female",
+    "age": 64,
+    "region": "Malmö",
+    "monthlySalarySEK": 82444
+  },
+  {
+    "firstName": "Bonnie",
+    "lastName": "Lilja",
+    "gender": "female",
+    "age": 25,
+    "region": "Göteborg",
+    "monthlySalarySEK": 34629
+  },
+  {
+    "firstName": "Sigge",
+    "lastName": "Antonsson",
+    "gender": "male",
+    "age": 62,
+    "region": "Malmö",
+    "monthlySalarySEK": 70186
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Mustafa",
+    "gender": "male",
+    "age": 49,
+    "region": "Göteborg",
+    "monthlySalarySEK": 39350
+  },
+  {
+    "firstName": "Björn",
+    "lastName": "Lindahl",
+    "gender": "male",
+    "age": 27,
+    "region": "Stockholm",
+    "monthlySalarySEK": 32576
+  },
+  {
+    "firstName": "Edith",
+    "lastName": "Åström",
+    "gender": "female",
+    "age": 63,
+    "region": "Göteborg",
+    "monthlySalarySEK": 97189
+  },
+  {
+    "firstName": "Tage",
+    "lastName": "Landin",
+    "gender": "male",
+    "age": 61,
+    "region": "Stockholm",
+    "monthlySalarySEK": 130277
+  },
+  {
+    "firstName": "Sigrid",
+    "lastName": "Moberg",
+    "gender": "female",
+    "age": 59,
+    "region": "Göteborg",
+    "monthlySalarySEK": 120416
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Malmberg",
+    "gender": "female",
+    "age": 45,
+    "region": "Göteborg",
+    "monthlySalarySEK": 36973
+  },
+  {
+    "firstName": "Julian",
+    "lastName": "Nordgren",
+    "gender": "male",
+    "age": 39,
+    "region": "Göteborg",
+    "monthlySalarySEK": 72339
+  },
+  {
+    "firstName": "Edith",
+    "lastName": "Blomkvist",
+    "gender": "female",
+    "age": 54,
+    "region": "Göteborg",
+    "monthlySalarySEK": 62664
+  },
+  {
+    "firstName": "Malte",
+    "lastName": "Pålsson",
+    "gender": "male",
+    "age": 47,
+    "region": "Stockholm",
+    "monthlySalarySEK": 46278
+  },
+  {
+    "firstName": "Kian",
+    "lastName": "Åström",
+    "gender": "male",
+    "age": 55,
+    "region": "Stockholm",
+    "monthlySalarySEK": 127802
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Ericsson",
+    "gender": "male",
+    "age": 48,
+    "region": "Malmö",
+    "monthlySalarySEK": 49758
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Antonsson",
+    "gender": "male",
+    "age": 43,
+    "region": "Malmö",
+    "monthlySalarySEK": 45105
+  },
+  {
+    "firstName": "Linnéa",
+    "lastName": "Norling",
+    "gender": "female",
+    "age": 40,
+    "region": "Stockholm",
+    "monthlySalarySEK": 75330
+  },
+  {
+    "firstName": "Nils",
+    "lastName": "Mahmoud",
+    "gender": "male",
+    "age": 37,
+    "region": "Malmö",
+    "monthlySalarySEK": 45191
+  },
+  {
+    "firstName": "Bonnie",
+    "lastName": "Engberg",
+    "gender": "female",
+    "age": 48,
+    "region": "Stockholm",
+    "monthlySalarySEK": 74912
+  },
+  {
+    "firstName": "Leona",
+    "lastName": "Andersen",
+    "gender": "female",
+    "age": 39,
+    "region": "Stockholm",
+    "monthlySalarySEK": 74258
+  },
+  {
+    "firstName": "Tage",
+    "lastName": "Hall",
+    "gender": "male",
+    "age": 32,
+    "region": "Göteborg",
+    "monthlySalarySEK": 65231
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Winberg",
+    "gender": "female",
+    "age": 47,
+    "region": "Göteborg",
+    "monthlySalarySEK": 57226
+  },
+  {
+    "firstName": "Nora",
+    "lastName": "Jarl",
+    "gender": "female",
+    "age": 26,
+    "region": "Malmö",
+    "monthlySalarySEK": 24817
+  },
+  {
+    "firstName": "Ivar",
+    "lastName": "Björkman",
+    "gender": "male",
+    "age": 34,
+    "region": "Göteborg",
+    "monthlySalarySEK": 42099
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Birgersson",
+    "gender": "female",
+    "age": 25,
+    "region": "Göteborg",
+    "monthlySalarySEK": 46273
+  },
+  {
+    "firstName": "Alina",
+    "lastName": "Håkansson",
+    "gender": "female",
+    "age": 43,
+    "region": "Stockholm",
+    "monthlySalarySEK": 79250
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Sundberg",
+    "gender": "female",
+    "age": 30,
+    "region": "Stockholm",
+    "monthlySalarySEK": 30752
+  },
+  {
+    "firstName": "Ebbe",
+    "lastName": "Bergsten",
+    "gender": "male",
+    "age": 39,
+    "region": "Malmö",
+    "monthlySalarySEK": 80428
+  },
+  {
+    "firstName": "Filip",
+    "lastName": "Boman",
+    "gender": "male",
+    "age": 26,
+    "region": "Göteborg",
+    "monthlySalarySEK": 38570
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "Ståhl",
+    "gender": "female",
+    "age": 38,
+    "region": "Malmö",
+    "monthlySalarySEK": 36753
+  },
+  {
+    "firstName": "Märta",
+    "lastName": "Ståhl",
+    "gender": "female",
+    "age": 22,
+    "region": "Stockholm",
+    "monthlySalarySEK": 28024
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Almqvist",
+    "gender": "male",
+    "age": 45,
+    "region": "Stockholm",
+    "monthlySalarySEK": 88477
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Persson",
+    "gender": "male",
+    "age": 25,
+    "region": "Göteborg",
+    "monthlySalarySEK": 35632
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Hammar",
+    "gender": "male",
+    "age": 23,
+    "region": "Göteborg",
+    "monthlySalarySEK": 56796
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Blomqvist",
+    "gender": "male",
+    "age": 30,
+    "region": "Stockholm",
+    "monthlySalarySEK": 24458
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Molin",
+    "gender": "female",
+    "age": 24,
+    "region": "Malmö",
+    "monthlySalarySEK": 26767
+  },
+  {
+    "firstName": "Elis",
+    "lastName": "Vallin",
+    "gender": "male",
+    "age": 46,
+    "region": "Malmö",
+    "monthlySalarySEK": 63782
+  },
+  {
+    "firstName": "Erik",
+    "lastName": "Stenström",
+    "gender": "male",
+    "age": 42,
+    "region": "Malmö",
+    "monthlySalarySEK": 24302
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Börjesson",
+    "gender": "male",
+    "age": 43,
+    "region": "Göteborg",
+    "monthlySalarySEK": 53169
+  },
+  {
+    "firstName": "Axel",
+    "lastName": "Ekström",
+    "gender": "male",
+    "age": 59,
+    "region": "Stockholm",
+    "monthlySalarySEK": 66580
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Ericson",
+    "gender": "male",
+    "age": 20,
+    "region": "Malmö",
+    "monthlySalarySEK": 38722
+  },
+  {
+    "firstName": "Nellie",
+    "lastName": "Grahn",
+    "gender": "female",
+    "age": 21,
+    "region": "Göteborg",
+    "monthlySalarySEK": 33385
+  },
+  {
+    "firstName": "Liv",
+    "lastName": "Engvall",
+    "gender": "female",
+    "age": 35,
+    "region": "Göteborg",
+    "monthlySalarySEK": 29792
+  },
+  {
+    "firstName": "Ebbe",
+    "lastName": "Nilsson",
+    "gender": "male",
+    "age": 46,
+    "region": "Stockholm",
+    "monthlySalarySEK": 56645
+  },
+  {
+    "firstName": "Matteo",
+    "lastName": "Sjöstrand",
+    "gender": "male",
+    "age": 36,
+    "region": "Malmö",
+    "monthlySalarySEK": 37868
+  },
+  {
+    "firstName": "Signe",
+    "lastName": "Lundahl",
+    "gender": "female",
+    "age": 55,
+    "region": "Göteborg",
+    "monthlySalarySEK": 58408
+  },
+  {
+    "firstName": "Albin",
+    "lastName": "Bolin",
+    "gender": "male",
+    "age": 45,
+    "region": "Stockholm",
+    "monthlySalarySEK": 44899
+  },
+  {
+    "firstName": "Liv",
+    "lastName": "Söderström",
+    "gender": "female",
+    "age": 43,
+    "region": "Stockholm",
+    "monthlySalarySEK": 83490
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Bohlin",
+    "gender": "female",
+    "age": 43,
+    "region": "Malmö",
+    "monthlySalarySEK": 42376
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Axelsson",
+    "gender": "male",
+    "age": 62,
+    "region": "Malmö",
+    "monthlySalarySEK": 33388
+  },
+  {
+    "firstName": "Signe",
+    "lastName": "Lindkvist",
+    "gender": "female",
+    "age": 51,
+    "region": "Stockholm",
+    "monthlySalarySEK": 77812
+  },
+  {
+    "firstName": "Aron",
+    "lastName": "Torstensson",
+    "gender": "male",
+    "age": 64,
+    "region": "Göteborg",
+    "monthlySalarySEK": 66705
+  },
+  {
+    "firstName": "Arvid",
+    "lastName": "Edström",
+    "gender": "male",
+    "age": 30,
+    "region": "Stockholm",
+    "monthlySalarySEK": 39482
+  },
+  {
+    "firstName": "Leona",
+    "lastName": "Sundqvist",
+    "gender": "female",
+    "age": 40,
+    "region": "Stockholm",
+    "monthlySalarySEK": 33162
+  },
+  {
+    "firstName": "Alba",
+    "lastName": "Ekman",
+    "gender": "female",
+    "age": 30,
+    "region": "Göteborg",
+    "monthlySalarySEK": 26972
+  },
+  {
+    "firstName": "Eira",
+    "lastName": "Edman",
+    "gender": "female",
+    "age": 42,
+    "region": "Stockholm",
+    "monthlySalarySEK": 64881
+  },
+  {
+    "firstName": "Melker",
+    "lastName": "Nordin",
+    "gender": "male",
+    "age": 60,
+    "region": "Stockholm",
+    "monthlySalarySEK": 69214
+  },
+  {
+    "firstName": "Hilda",
+    "lastName": "Chen",
+    "gender": "female",
+    "age": 42,
+    "region": "Göteborg",
+    "monthlySalarySEK": 86724
+  },
+  {
+    "firstName": "Viggo",
+    "lastName": "Häggström",
+    "gender": "male",
+    "age": 45,
+    "region": "Malmö",
+    "monthlySalarySEK": 32024
+  },
+  {
+    "firstName": "Bonnie",
+    "lastName": "Hansson",
+    "gender": "female",
+    "age": 56,
+    "region": "Malmö",
+    "monthlySalarySEK": 20978
+  },
+  {
+    "firstName": "Alina",
+    "lastName": "Dahlin",
+    "gender": "female",
+    "age": 40,
+    "region": "Malmö",
+    "monthlySalarySEK": 35345
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Forsman",
+    "gender": "male",
+    "age": 51,
+    "region": "Stockholm",
+    "monthlySalarySEK": 26782
+  },
+  {
+    "firstName": "Otis",
+    "lastName": "Hjalmarsson",
+    "gender": "male",
+    "age": 23,
+    "region": "Göteborg",
+    "monthlySalarySEK": 44621
+  },
+  {
+    "firstName": "Stella",
+    "lastName": "Svahn",
+    "gender": "female",
+    "age": 61,
+    "region": "Göteborg",
+    "monthlySalarySEK": 105577
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Engberg",
+    "gender": "female",
+    "age": 25,
+    "region": "Stockholm",
+    "monthlySalarySEK": 34671
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Hägg",
+    "gender": "female",
+    "age": 58,
+    "region": "Stockholm",
+    "monthlySalarySEK": 65068
+  },
+  {
+    "firstName": "Liv",
+    "lastName": "Almgren",
+    "gender": "female",
+    "age": 24,
+    "region": "Stockholm",
+    "monthlySalarySEK": 31381
+  },
+  {
+    "firstName": "Melvin",
+    "lastName": "Nordlander",
+    "gender": "male",
+    "age": 37,
+    "region": "Stockholm",
+    "monthlySalarySEK": 55243
+  },
+  {
+    "firstName": "Elton",
+    "lastName": "Molin",
+    "gender": "male",
+    "age": 59,
+    "region": "Göteborg",
+    "monthlySalarySEK": 126730
+  },
+  {
+    "firstName": "Hedvig",
+    "lastName": "Sjölander",
+    "gender": "female",
+    "age": 47,
+    "region": "Stockholm",
+    "monthlySalarySEK": 46793
+  },
+  {
+    "firstName": "Ayla",
+    "lastName": "Rydén",
+    "gender": "female",
+    "age": 54,
+    "region": "Stockholm",
+    "monthlySalarySEK": 76028
+  },
+  {
+    "firstName": "Saga",
+    "lastName": "Ekman",
+    "gender": "female",
+    "age": 31,
+    "region": "Malmö",
+    "monthlySalarySEK": 39912
+  },
+  {
+    "firstName": "Wilma",
+    "lastName": "Alfredsson",
+    "gender": "female",
+    "age": 31,
+    "region": "Göteborg",
+    "monthlySalarySEK": 50855
+  },
+  {
+    "firstName": "Noel",
+    "lastName": "Bergdahl",
+    "gender": "male",
+    "age": 18,
+    "region": "Stockholm",
+    "monthlySalarySEK": 61458
+  },
+  {
+    "firstName": "Viola",
+    "lastName": "Hedström",
+    "gender": "female",
+    "age": 64,
+    "region": "Stockholm",
+    "monthlySalarySEK": 129857
+  },
+  {
+    "firstName": "Aron",
+    "lastName": "Levin",
+    "gender": "male",
+    "age": 26,
+    "region": "Malmö",
+    "monthlySalarySEK": 51837
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Blomberg",
+    "gender": "female",
+    "age": 21,
+    "region": "Stockholm",
+    "monthlySalarySEK": 24043
+  },
+  {
+    "firstName": "Elin",
+    "lastName": "Blomberg",
+    "gender": "female",
+    "age": 57,
+    "region": "Malmö",
+    "monthlySalarySEK": 54623
+  },
+  {
+    "firstName": "Ayla",
+    "lastName": "Robertsson",
+    "gender": "female",
+    "age": 48,
+    "region": "Malmö",
+    "monthlySalarySEK": 93409
+  },
+  {
+    "firstName": "Hedvig",
+    "lastName": "Sköld",
+    "gender": "female",
+    "age": 22,
+    "region": "Göteborg",
+    "monthlySalarySEK": 29833
+  },
+  {
+    "firstName": "Melvin",
+    "lastName": "Jakobsson",
+    "gender": "male",
+    "age": 23,
+    "region": "Göteborg",
+    "monthlySalarySEK": 28758
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Carlberg",
+    "gender": "male",
+    "age": 25,
+    "region": "Malmö",
+    "monthlySalarySEK": 20676
+  },
+  {
+    "firstName": "Ida",
+    "lastName": "Molin",
+    "gender": "female",
+    "age": 54,
+    "region": "Göteborg",
+    "monthlySalarySEK": 81691
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "Dahlqvist",
+    "gender": "female",
+    "age": 54,
+    "region": "Malmö",
+    "monthlySalarySEK": 107290
+  },
+  {
+    "firstName": "Bonnie",
+    "lastName": "Sjöstedt",
+    "gender": "female",
+    "age": 30,
+    "region": "Malmö",
+    "monthlySalarySEK": 54376
+  },
+  {
+    "firstName": "Signe",
+    "lastName": "Ekdahl",
+    "gender": "female",
+    "age": 55,
+    "region": "Stockholm",
+    "monthlySalarySEK": 97259
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Ahlberg",
+    "gender": "male",
+    "age": 63,
+    "region": "Malmö",
+    "monthlySalarySEK": 124640
+  },
+  {
+    "firstName": "Livia",
+    "lastName": "Lundqvist",
+    "gender": "female",
+    "age": 33,
+    "region": "Malmö",
+    "monthlySalarySEK": 48409
+  },
+  {
+    "firstName": "Tage",
+    "lastName": "Larsen",
+    "gender": "male",
+    "age": 33,
+    "region": "Stockholm",
+    "monthlySalarySEK": 44941
+  },
+  {
+    "firstName": "Tuva",
+    "lastName": "Ekström",
+    "gender": "female",
+    "age": 54,
+    "region": "Malmö",
+    "monthlySalarySEK": 74097
+  },
+  {
+    "firstName": "Nils",
+    "lastName": "Hansen",
+    "gender": "male",
+    "age": 21,
+    "region": "Göteborg",
+    "monthlySalarySEK": 34430
+  },
+  {
+    "firstName": "Celine",
+    "lastName": "Werner",
+    "gender": "female",
+    "age": 29,
+    "region": "Malmö",
+    "monthlySalarySEK": 50946
+  },
+  {
+    "firstName": "Isabella",
+    "lastName": "Lindblad",
+    "gender": "female",
+    "age": 25,
+    "region": "Stockholm",
+    "monthlySalarySEK": 25817
+  },
+  {
+    "firstName": "Maja",
+    "lastName": "Frank",
+    "gender": "female",
+    "age": 29,
+    "region": "Stockholm",
+    "monthlySalarySEK": 40194
+  },
+  {
+    "firstName": "Lovisa",
+    "lastName": "Roth",
+    "gender": "female",
+    "age": 48,
+    "region": "Malmö",
+    "monthlySalarySEK": 86443
+  },
+  {
+    "firstName": "Knut",
+    "lastName": "Rask",
+    "gender": "male",
+    "age": 43,
+    "region": "Stockholm",
+    "monthlySalarySEK": 56588
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Vestin",
+    "gender": "male",
+    "age": 47,
+    "region": "Göteborg",
+    "monthlySalarySEK": 53335
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Ivarsson",
+    "gender": "male",
+    "age": 62,
+    "region": "Stockholm",
+    "monthlySalarySEK": 144038
+  },
+  {
+    "firstName": "Viola",
+    "lastName": "Nyberg",
+    "gender": "female",
+    "age": 19,
+    "region": "Malmö",
+    "monthlySalarySEK": 20374
+  },
+  {
+    "firstName": "Freja",
+    "lastName": "Abrahamsson",
+    "gender": "female",
+    "age": 45,
+    "region": "Malmö",
+    "monthlySalarySEK": 68883
+  },
+  {
+    "firstName": "Filip",
+    "lastName": "Hagberg",
+    "gender": "male",
+    "age": 38,
+    "region": "Stockholm",
+    "monthlySalarySEK": 67041
+  },
+  {
+    "firstName": "Kian",
+    "lastName": "Lundström",
+    "gender": "male",
+    "age": 47,
+    "region": "Stockholm",
+    "monthlySalarySEK": 54640
+  },
+  {
+    "firstName": "Otis",
+    "lastName": "Söderman",
+    "gender": "male",
+    "age": 21,
+    "region": "Malmö",
+    "monthlySalarySEK": 20965
+  },
+  {
+    "firstName": "Nils",
+    "lastName": "Gullberg",
+    "gender": "male",
+    "age": 28,
+    "region": "Malmö",
+    "monthlySalarySEK": 48116
+  },
+  {
+    "firstName": "Lovisa",
+    "lastName": "Dahlén",
+    "gender": "female",
+    "age": 55,
+    "region": "Göteborg",
+    "monthlySalarySEK": 22305
+  },
+  {
+    "firstName": "Ronja",
+    "lastName": "Forsman",
+    "gender": "female",
+    "age": 30,
+    "region": "Malmö",
+    "monthlySalarySEK": 56441
+  },
+  {
+    "firstName": "Thea",
+    "lastName": "Christensen",
+    "gender": "female",
+    "age": 28,
+    "region": "Göteborg",
+    "monthlySalarySEK": 56544
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Vilhelmsson",
+    "gender": "male",
+    "age": 26,
+    "region": "Stockholm",
+    "monthlySalarySEK": 60858
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Steen",
+    "gender": "male",
+    "age": 22,
+    "region": "Stockholm",
+    "monthlySalarySEK": 35613
+  },
+  {
+    "firstName": "Aurora",
+    "lastName": "Ingvarsson",
+    "gender": "female",
+    "age": 53,
+    "region": "Malmö",
+    "monthlySalarySEK": 84745
+  },
+  {
+    "firstName": "Walter",
+    "lastName": "Jonsson",
+    "gender": "male",
+    "age": 59,
+    "region": "Göteborg",
+    "monthlySalarySEK": 76254
+  },
+  {
+    "firstName": "Svante",
+    "lastName": "Hellman",
+    "gender": "male",
+    "age": 64,
+    "region": "Malmö",
+    "monthlySalarySEK": 72405
+  },
+  {
+    "firstName": "Alvin",
+    "lastName": "Roth",
+    "gender": "male",
+    "age": 40,
+    "region": "Stockholm",
+    "monthlySalarySEK": 53178
+  },
+  {
+    "firstName": "Bonnie",
+    "lastName": "Eklund",
+    "gender": "female",
+    "age": 35,
+    "region": "Göteborg",
+    "monthlySalarySEK": 25368
+  },
+  {
+    "firstName": "Casper",
+    "lastName": "Johansen",
+    "gender": "male",
+    "age": 51,
+    "region": "Malmö",
+    "monthlySalarySEK": 26522
+  },
+  {
+    "firstName": "Celine",
+    "lastName": "Lindblad",
+    "gender": "female",
+    "age": 26,
+    "region": "Malmö",
+    "monthlySalarySEK": 48123
+  },
+  {
+    "firstName": "Hilma",
+    "lastName": "Carlson",
+    "gender": "female",
+    "age": 26,
+    "region": "Göteborg",
+    "monthlySalarySEK": 31588
+  },
+  {
+    "firstName": "Maximilian",
+    "lastName": "Lidström",
+    "gender": "male",
+    "age": 42,
+    "region": "Stockholm",
+    "monthlySalarySEK": 86298
+  },
+  {
+    "firstName": "Hedvig",
+    "lastName": "Sundell",
+    "gender": "female",
+    "age": 53,
+    "region": "Göteborg",
+    "monthlySalarySEK": 42561
+  },
+  {
+    "firstName": "Sigge",
+    "lastName": "Lindström",
+    "gender": "male",
+    "age": 31,
+    "region": "Stockholm",
+    "monthlySalarySEK": 26059
+  },
+  {
+    "firstName": "Wilma",
+    "lastName": "Lindvall",
+    "gender": "female",
+    "age": 52,
+    "region": "Stockholm",
+    "monthlySalarySEK": 89131
+  },
+  {
+    "firstName": "Viola",
+    "lastName": "Edvardsson",
+    "gender": "female",
+    "age": 61,
+    "region": "Malmö",
+    "monthlySalarySEK": 76308
+  },
+  {
+    "firstName": "Aston",
+    "lastName": "Åkerlund",
+    "gender": "male",
+    "age": 51,
+    "region": "Göteborg",
+    "monthlySalarySEK": 64632
+  },
+  {
+    "firstName": "Inez",
+    "lastName": "Ragnarsson",
+    "gender": "female",
+    "age": 26,
+    "region": "Göteborg",
+    "monthlySalarySEK": 41163
+  },
+  {
+    "firstName": "Isak",
+    "lastName": "Aronsson",
+    "gender": "male",
+    "age": 31,
+    "region": "Malmö",
+    "monthlySalarySEK": 64375
+  },
+  {
+    "firstName": "Melvin",
+    "lastName": "Lantz",
+    "gender": "male",
+    "age": 40,
+    "region": "Malmö",
+    "monthlySalarySEK": 57843
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Anderberg",
+    "gender": "female",
+    "age": 31,
+    "region": "Malmö",
+    "monthlySalarySEK": 29163
+  },
+  {
+    "firstName": "Amir",
+    "lastName": "Nygren",
+    "gender": "male",
+    "age": 48,
+    "region": "Stockholm",
+    "monthlySalarySEK": 88738
+  },
+  {
+    "firstName": "Ted",
+    "lastName": "Burman",
+    "gender": "male",
+    "age": 43,
+    "region": "Göteborg",
+    "monthlySalarySEK": 46453
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Pihl",
+    "gender": "male",
+    "age": 62,
+    "region": "Stockholm",
+    "monthlySalarySEK": 82629
+  },
+  {
+    "firstName": "Ebbe",
+    "lastName": "Blomgren",
+    "gender": "male",
+    "age": 38,
+    "region": "Göteborg",
+    "monthlySalarySEK": 57809
+  },
+  {
+    "firstName": "Loui",
+    "lastName": "Wennberg",
+    "gender": "male",
+    "age": 34,
+    "region": "Malmö",
+    "monthlySalarySEK": 60181
+  },
+  {
+    "firstName": "Ida",
+    "lastName": "Lundin",
+    "gender": "female",
+    "age": 39,
+    "region": "Stockholm",
+    "monthlySalarySEK": 82193
+  },
+  {
+    "firstName": "Sixten",
+    "lastName": "Sjölund",
+    "gender": "male",
+    "age": 57,
+    "region": "Göteborg",
+    "monthlySalarySEK": 93251
+  },
+  {
+    "firstName": "Livia",
+    "lastName": "Isaksson",
+    "gender": "female",
+    "age": 20,
+    "region": "Malmö",
+    "monthlySalarySEK": 33781
+  },
+  {
+    "firstName": "Oskar",
+    "lastName": "Green",
+    "gender": "male",
+    "age": 23,
+    "region": "Malmö",
+    "monthlySalarySEK": 40682
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Abdullah",
+    "gender": "male",
+    "age": 20,
+    "region": "Stockholm",
+    "monthlySalarySEK": 38147
+  },
+  {
+    "firstName": "Millie",
+    "lastName": "Viklund",
+    "gender": "female",
+    "age": 37,
+    "region": "Stockholm",
+    "monthlySalarySEK": 76393
+  },
+  {
+    "firstName": "Maya",
+    "lastName": "Skog",
+    "gender": "female",
+    "age": 30,
+    "region": "Stockholm",
+    "monthlySalarySEK": 57024
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Lundahl",
+    "gender": "female",
+    "age": 33,
+    "region": "Malmö",
+    "monthlySalarySEK": 34526
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Nordin",
+    "gender": "male",
+    "age": 60,
+    "region": "Stockholm",
+    "monthlySalarySEK": 133208
+  },
+  {
+    "firstName": "Oskar",
+    "lastName": "Rydén",
+    "gender": "male",
+    "age": 24,
+    "region": "Malmö",
+    "monthlySalarySEK": 44469
+  },
+  {
+    "firstName": "Vilma",
+    "lastName": "Lindblad",
+    "gender": "female",
+    "age": 60,
+    "region": "Stockholm",
+    "monthlySalarySEK": 87021
+  },
+  {
+    "firstName": "Lova",
+    "lastName": "Edin",
+    "gender": "female",
+    "age": 51,
+    "region": "Stockholm",
+    "monthlySalarySEK": 68954
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Ljungberg",
+    "gender": "male",
+    "age": 55,
+    "region": "Stockholm",
+    "monthlySalarySEK": 64717
+  },
+  {
+    "firstName": "Alva",
+    "lastName": "Nord",
+    "gender": "female",
+    "age": 46,
+    "region": "Göteborg",
+    "monthlySalarySEK": 37863
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Dahlén",
+    "gender": "female",
+    "age": 23,
+    "region": "Stockholm",
+    "monthlySalarySEK": 20736
+  },
+  {
+    "firstName": "Vera",
+    "lastName": "Höglund",
+    "gender": "female",
+    "age": 44,
+    "region": "Stockholm",
+    "monthlySalarySEK": 56890
+  },
+  {
+    "firstName": "Lykke",
+    "lastName": "Norén",
+    "gender": "female",
+    "age": 64,
+    "region": "Stockholm",
+    "monthlySalarySEK": 78657
+  },
+  {
+    "firstName": "Theo",
+    "lastName": "Pettersson",
+    "gender": "male",
+    "age": 46,
+    "region": "Malmö",
+    "monthlySalarySEK": 36334
+  },
+  {
+    "firstName": "Ebbe",
+    "lastName": "Backlund",
+    "gender": "male",
+    "age": 50,
+    "region": "Göteborg",
+    "monthlySalarySEK": 108478
+  },
+  {
+    "firstName": "Hedda",
+    "lastName": "Ståhl",
+    "gender": "female",
+    "age": 25,
+    "region": "Malmö",
+    "monthlySalarySEK": 31926
+  },
+  {
+    "firstName": "Nova",
+    "lastName": "Thunberg",
+    "gender": "female",
+    "age": 21,
+    "region": "Göteborg",
+    "monthlySalarySEK": 36197
+  },
+  {
+    "firstName": "Idun",
+    "lastName": "Hellström",
+    "gender": "female",
+    "age": 46,
+    "region": "Stockholm",
+    "monthlySalarySEK": 59030
+  },
+  {
+    "firstName": "Algot",
+    "lastName": "Hammarström",
+    "gender": "male",
+    "age": 64,
+    "region": "Göteborg",
+    "monthlySalarySEK": 46014
+  },
+  {
+    "firstName": "Hjalmar",
+    "lastName": "Hallin",
+    "gender": "male",
+    "age": 27,
+    "region": "Göteborg",
+    "monthlySalarySEK": 49112
+  },
+  {
+    "firstName": "Knut",
+    "lastName": "Mustafa",
+    "gender": "male",
+    "age": 57,
+    "region": "Stockholm",
+    "monthlySalarySEK": 70418
+  },
+  {
+    "firstName": "Matteo",
+    "lastName": "Mustafa",
+    "gender": "male",
+    "age": 36,
+    "region": "Stockholm",
+    "monthlySalarySEK": 52756
+  },
+  {
+    "firstName": "Melker",
+    "lastName": "Karlsson",
+    "gender": "male",
+    "age": 53,
+    "region": "Göteborg",
+    "monthlySalarySEK": 68110
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Folkesson",
+    "gender": "male",
+    "age": 41,
+    "region": "Stockholm",
+    "monthlySalarySEK": 39069
+  },
+  {
+    "firstName": "Melker",
+    "lastName": "Karlberg",
+    "gender": "male",
+    "age": 60,
+    "region": "Göteborg",
+    "monthlySalarySEK": 58460
+  },
+  {
+    "firstName": "Cleo",
+    "lastName": "Lilja",
+    "gender": "female",
+    "age": 23,
+    "region": "Malmö",
+    "monthlySalarySEK": 21709
+  },
+  {
+    "firstName": "Alvin",
+    "lastName": "Höglund",
+    "gender": "male",
+    "age": 28,
+    "region": "Göteborg",
+    "monthlySalarySEK": 27682
+  },
+  {
+    "firstName": "Nova",
+    "lastName": "Magnusson",
+    "gender": "female",
+    "age": 49,
+    "region": "Göteborg",
+    "monthlySalarySEK": 94371
+  },
+  {
+    "firstName": "Omar",
+    "lastName": "Bäckman",
+    "gender": "male",
+    "age": 61,
+    "region": "Malmö",
+    "monthlySalarySEK": 57246
+  },
+  {
+    "firstName": "Ilse",
+    "lastName": "Sjöström",
+    "gender": "female",
+    "age": 63,
+    "region": "Malmö",
+    "monthlySalarySEK": 88378
+  },
+  {
+    "firstName": "Walter",
+    "lastName": "Engdahl",
+    "gender": "male",
+    "age": 30,
+    "region": "Stockholm",
+    "monthlySalarySEK": 63828
+  },
+  {
+    "firstName": "Freja",
+    "lastName": "Wiberg",
+    "gender": "female",
+    "age": 24,
+    "region": "Stockholm",
+    "monthlySalarySEK": 47378
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Abrahamsson",
+    "gender": "male",
+    "age": 61,
+    "region": "Stockholm",
+    "monthlySalarySEK": 83128
+  },
+  {
+    "firstName": "Knut",
+    "lastName": "Klasson",
+    "gender": "male",
+    "age": 38,
+    "region": "Stockholm",
+    "monthlySalarySEK": 30145
+  },
+  {
+    "firstName": "Melina",
+    "lastName": "Abrahamsson",
+    "gender": "female",
+    "age": 28,
+    "region": "Göteborg",
+    "monthlySalarySEK": 48737
+  },
+  {
+    "firstName": "Astrid",
+    "lastName": "Söderholm",
+    "gender": "female",
+    "age": 40,
+    "region": "Göteborg",
+    "monthlySalarySEK": 29041
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Hedman",
+    "gender": "female",
+    "age": 50,
+    "region": "Stockholm",
+    "monthlySalarySEK": 64803
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "Tran",
+    "gender": "female",
+    "age": 38,
+    "region": "Malmö",
+    "monthlySalarySEK": 38074
+  },
+  {
+    "firstName": "Melker",
+    "lastName": "Eriksson",
+    "gender": "male",
+    "age": 26,
+    "region": "Malmö",
+    "monthlySalarySEK": 42478
+  },
+  {
+    "firstName": "Edvin",
+    "lastName": "Said",
+    "gender": "male",
+    "age": 55,
+    "region": "Stockholm",
+    "monthlySalarySEK": 79049
+  },
+  {
+    "firstName": "Idun",
+    "lastName": "Alm",
+    "gender": "female",
+    "age": 50,
+    "region": "Malmö",
+    "monthlySalarySEK": 78816
+  },
+  {
+    "firstName": "Vera",
+    "lastName": "Storm",
+    "gender": "female",
+    "age": 34,
+    "region": "Göteborg",
+    "monthlySalarySEK": 43469
+  },
+  {
+    "firstName": "Omar",
+    "lastName": "Östman",
+    "gender": "male",
+    "age": 22,
+    "region": "Göteborg",
+    "monthlySalarySEK": 46761
+  },
+  {
+    "firstName": "Leona",
+    "lastName": "Öman",
+    "gender": "female",
+    "age": 50,
+    "region": "Göteborg",
+    "monthlySalarySEK": 75895
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Ohlsson",
+    "gender": "female",
+    "age": 41,
+    "region": "Göteborg",
+    "monthlySalarySEK": 58609
+  },
+  {
+    "firstName": "Malte",
+    "lastName": "Vallin",
+    "gender": "male",
+    "age": 25,
+    "region": "Stockholm",
+    "monthlySalarySEK": 60514
+  },
+  {
+    "firstName": "Livia",
+    "lastName": "Lundgren",
+    "gender": "female",
+    "age": 57,
+    "region": "Göteborg",
+    "monthlySalarySEK": 101931
+  },
+  {
+    "firstName": "Julian",
+    "lastName": "Rehn",
+    "gender": "male",
+    "age": 59,
+    "region": "Stockholm",
+    "monthlySalarySEK": 134943
+  },
+  {
+    "firstName": "Elsie",
+    "lastName": "Thulin",
+    "gender": "female",
+    "age": 50,
+    "region": "Malmö",
+    "monthlySalarySEK": 92966
+  },
+  {
+    "firstName": "Ludwig",
+    "lastName": "Bolin",
+    "gender": "male",
+    "age": 34,
+    "region": "Stockholm",
+    "monthlySalarySEK": 41348
+  },
+  {
+    "firstName": "Olle",
+    "lastName": "Magnusson",
+    "gender": "male",
+    "age": 56,
+    "region": "Göteborg",
+    "monthlySalarySEK": 112122
+  },
+  {
+    "firstName": "Alba",
+    "lastName": "Sjöstedt",
+    "gender": "female",
+    "age": 36,
+    "region": "Göteborg",
+    "monthlySalarySEK": 22408
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Ivarsson",
+    "gender": "male",
+    "age": 20,
+    "region": "Stockholm",
+    "monthlySalarySEK": 16164
+  },
+  {
+    "firstName": "Algot",
+    "lastName": "Birgersson",
+    "gender": "male",
+    "age": 43,
+    "region": "Göteborg",
+    "monthlySalarySEK": 38883
+  },
+  {
+    "firstName": "Leia",
+    "lastName": "Landström",
+    "gender": "female",
+    "age": 57,
+    "region": "Malmö",
+    "monthlySalarySEK": 64579
+  },
+  {
+    "firstName": "Hedda",
+    "lastName": "Bertilsson",
+    "gender": "female",
+    "age": 44,
+    "region": "Malmö",
+    "monthlySalarySEK": 54290
+  },
+  {
+    "firstName": "Knut",
+    "lastName": "Lind",
+    "gender": "male",
+    "age": 27,
+    "region": "Göteborg",
+    "monthlySalarySEK": 47811
+  },
+  {
+    "firstName": "Luna",
+    "lastName": "Lundström",
+    "gender": "female",
+    "age": 54,
+    "region": "Malmö",
+    "monthlySalarySEK": 58512
+  },
+  {
+    "firstName": "Ilse",
+    "lastName": "Jansson",
+    "gender": "female",
+    "age": 55,
+    "region": "Malmö",
+    "monthlySalarySEK": 88216
+  },
+  {
+    "firstName": "Dante",
+    "lastName": "Green",
+    "gender": "male",
+    "age": 49,
+    "region": "Malmö",
+    "monthlySalarySEK": 54150
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Dahlström",
+    "gender": "male",
+    "age": 25,
+    "region": "Stockholm",
+    "monthlySalarySEK": 23025
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Lindvall",
+    "gender": "male",
+    "age": 25,
+    "region": "Malmö",
+    "monthlySalarySEK": 50406
+  },
+  {
+    "firstName": "Leia",
+    "lastName": "Hedin",
+    "gender": "female",
+    "age": 36,
+    "region": "Göteborg",
+    "monthlySalarySEK": 42121
+  },
+  {
+    "firstName": "Celine",
+    "lastName": "Ohlsson",
+    "gender": "female",
+    "age": 35,
+    "region": "Göteborg",
+    "monthlySalarySEK": 36966
+  },
+  {
+    "firstName": "Lovisa",
+    "lastName": "Norman",
+    "gender": "female",
+    "age": 20,
+    "region": "Göteborg",
+    "monthlySalarySEK": 46513
+  },
+  {
+    "firstName": "Algot",
+    "lastName": "Bohman",
+    "gender": "male",
+    "age": 48,
+    "region": "Göteborg",
+    "monthlySalarySEK": 41312
+  },
+  {
+    "firstName": "Ture",
+    "lastName": "Hellberg",
+    "gender": "male",
+    "age": 43,
+    "region": "Göteborg",
+    "monthlySalarySEK": 46824
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Granström",
+    "gender": "male",
+    "age": 38,
+    "region": "Stockholm",
+    "monthlySalarySEK": 53317
+  },
+  {
+    "firstName": "Thea",
+    "lastName": "Nilsson",
+    "gender": "female",
+    "age": 32,
+    "region": "Stockholm",
+    "monthlySalarySEK": 64668
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Backlund",
+    "gender": "male",
+    "age": 47,
+    "region": "Göteborg",
+    "monthlySalarySEK": 39657
+  },
+  {
+    "firstName": "Ted",
+    "lastName": "Strid",
+    "gender": "male",
+    "age": 52,
+    "region": "Göteborg",
+    "monthlySalarySEK": 54872
+  },
+  {
+    "firstName": "Svea",
+    "lastName": "Antonsson",
+    "gender": "female",
+    "age": 25,
+    "region": "Göteborg",
+    "monthlySalarySEK": 22455
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Vilhelmsson",
+    "gender": "male",
+    "age": 45,
+    "region": "Malmö",
+    "monthlySalarySEK": 86397
+  },
+  {
+    "firstName": "Lovis",
+    "lastName": "Eriksson",
+    "gender": "female",
+    "age": 55,
+    "region": "Malmö",
+    "monthlySalarySEK": 53993
+  },
+  {
+    "firstName": "Ronja",
+    "lastName": "Skoog",
+    "gender": "female",
+    "age": 35,
+    "region": "Malmö",
+    "monthlySalarySEK": 31120
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Franzén",
+    "gender": "male",
+    "age": 36,
+    "region": "Göteborg",
+    "monthlySalarySEK": 48318
+  },
+  {
+    "firstName": "Millie",
+    "lastName": "Rehn",
+    "gender": "female",
+    "age": 27,
+    "region": "Stockholm",
+    "monthlySalarySEK": 51478
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Nordlund",
+    "gender": "male",
+    "age": 58,
+    "region": "Stockholm",
+    "monthlySalarySEK": 58330
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Henningsson",
+    "gender": "male",
+    "age": 44,
+    "region": "Stockholm",
+    "monthlySalarySEK": 69156
+  },
+  {
+    "firstName": "Alvin",
+    "lastName": "Ismail",
+    "gender": "male",
+    "age": 26,
+    "region": "Göteborg",
+    "monthlySalarySEK": 25215
+  },
+  {
+    "firstName": "Esther",
+    "lastName": "Wiberg",
+    "gender": "female",
+    "age": 46,
+    "region": "Stockholm",
+    "monthlySalarySEK": 68973
+  },
+  {
+    "firstName": "Elis",
+    "lastName": "Westerberg",
+    "gender": "male",
+    "age": 57,
+    "region": "Malmö",
+    "monthlySalarySEK": 106226
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Ljunggren",
+    "gender": "male",
+    "age": 56,
+    "region": "Malmö",
+    "monthlySalarySEK": 78549
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Mohamed",
+    "gender": "female",
+    "age": 32,
+    "region": "Stockholm",
+    "monthlySalarySEK": 63986
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Lindell",
+    "gender": "male",
+    "age": 59,
+    "region": "Stockholm",
+    "monthlySalarySEK": 112627
+  },
+  {
+    "firstName": "Alve",
+    "lastName": "Nylén",
+    "gender": "male",
+    "age": 40,
+    "region": "Stockholm",
+    "monthlySalarySEK": 53454
+  },
+  {
+    "firstName": "Märta",
+    "lastName": "Englund",
+    "gender": "female",
+    "age": 19,
+    "region": "Stockholm",
+    "monthlySalarySEK": 16536
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Edström",
+    "gender": "male",
+    "age": 39,
+    "region": "Malmö",
+    "monthlySalarySEK": 34674
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Andrén",
+    "gender": "female",
+    "age": 24,
+    "region": "Malmö",
+    "monthlySalarySEK": 50518
+  },
+  {
+    "firstName": "Molly",
+    "lastName": "Mårtensson",
+    "gender": "female",
+    "age": 31,
+    "region": "Malmö",
+    "monthlySalarySEK": 41393
+  },
+  {
+    "firstName": "Louie",
+    "lastName": "Åström",
+    "gender": "male",
+    "age": 54,
+    "region": "Göteborg",
+    "monthlySalarySEK": 75132
+  },
+  {
+    "firstName": "Celine",
+    "lastName": "Ericson",
+    "gender": "female",
+    "age": 50,
+    "region": "Stockholm",
+    "monthlySalarySEK": 93318
+  },
+  {
+    "firstName": "Tage",
+    "lastName": "Petersson",
+    "gender": "male",
+    "age": 27,
+    "region": "Stockholm",
+    "monthlySalarySEK": 26778
+  },
+  {
+    "firstName": "Amir",
+    "lastName": "Holmberg",
+    "gender": "male",
+    "age": 53,
+    "region": "Malmö",
+    "monthlySalarySEK": 39855
+  },
+  {
+    "firstName": "Selma",
+    "lastName": "Lindström",
+    "gender": "female",
+    "age": 45,
+    "region": "Malmö",
+    "monthlySalarySEK": 40005
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Edlund",
+    "gender": "male",
+    "age": 18,
+    "region": "Stockholm",
+    "monthlySalarySEK": 22186
+  },
+  {
+    "firstName": "Love",
+    "lastName": "Engvall",
+    "gender": "male",
+    "age": 58,
+    "region": "Stockholm",
+    "monthlySalarySEK": 86050
+  },
+  {
+    "firstName": "Selma",
+    "lastName": "Forslund",
+    "gender": "female",
+    "age": 37,
+    "region": "Malmö",
+    "monthlySalarySEK": 38455
+  },
+  {
+    "firstName": "Alicia",
+    "lastName": "Knutsson",
+    "gender": "female",
+    "age": 40,
+    "region": "Göteborg",
+    "monthlySalarySEK": 66742
+  },
+  {
+    "firstName": "Lykke",
+    "lastName": "Kling",
+    "gender": "female",
+    "age": 60,
+    "region": "Stockholm",
+    "monthlySalarySEK": 82176
+  },
+  {
+    "firstName": "Maja",
+    "lastName": "Gullberg",
+    "gender": "female",
+    "age": 29,
+    "region": "Malmö",
+    "monthlySalarySEK": 36242
+  },
+  {
+    "firstName": "Knut",
+    "lastName": "Engström",
+    "gender": "male",
+    "age": 22,
+    "region": "Stockholm",
+    "monthlySalarySEK": 35138
+  },
+  {
+    "firstName": "Svea",
+    "lastName": "Winberg",
+    "gender": "female",
+    "age": 38,
+    "region": "Göteborg",
+    "monthlySalarySEK": 61775
+  },
+  {
+    "firstName": "Leon",
+    "lastName": "Palmgren",
+    "gender": "male",
+    "age": 55,
+    "region": "Göteborg",
+    "monthlySalarySEK": 44690
+  },
+  {
+    "firstName": "Hilma",
+    "lastName": "Rosenberg",
+    "gender": "female",
+    "age": 40,
+    "region": "Stockholm",
+    "monthlySalarySEK": 51071
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Brandt",
+    "gender": "male",
+    "age": 48,
+    "region": "Stockholm",
+    "monthlySalarySEK": 79629
+  },
+  {
+    "firstName": "Vera",
+    "lastName": "Nordqvist",
+    "gender": "female",
+    "age": 53,
+    "region": "Stockholm",
+    "monthlySalarySEK": 63782
+  },
+  {
+    "firstName": "Ture",
+    "lastName": "Eklöf",
+    "gender": "male",
+    "age": 44,
+    "region": "Göteborg",
+    "monthlySalarySEK": 47038
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Nielsen",
+    "gender": "female",
+    "age": 42,
+    "region": "Stockholm",
+    "monthlySalarySEK": 80015
+  },
+  {
+    "firstName": "Elis",
+    "lastName": "Hägglund",
+    "gender": "male",
+    "age": 37,
+    "region": "Malmö",
+    "monthlySalarySEK": 56532
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Ekdahl",
+    "gender": "male",
+    "age": 40,
+    "region": "Göteborg",
+    "monthlySalarySEK": 44572
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Mohamud",
+    "gender": "male",
+    "age": 62,
+    "region": "Malmö",
+    "monthlySalarySEK": 55349
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Emilsson",
+    "gender": "male",
+    "age": 19,
+    "region": "Stockholm",
+    "monthlySalarySEK": 17844
+  },
+  {
+    "firstName": "Eira",
+    "lastName": "Jonasson",
+    "gender": "female",
+    "age": 18,
+    "region": "Malmö",
+    "monthlySalarySEK": 16264
+  },
+  {
+    "firstName": "Milton",
+    "lastName": "Wahlberg",
+    "gender": "male",
+    "age": 42,
+    "region": "Göteborg",
+    "monthlySalarySEK": 89394
+  },
+  {
+    "firstName": "Leon",
+    "lastName": "Åkerman",
+    "gender": "male",
+    "age": 61,
+    "region": "Malmö",
+    "monthlySalarySEK": 118073
+  },
+  {
+    "firstName": "Klara",
+    "lastName": "Blomkvist",
+    "gender": "female",
+    "age": 33,
+    "region": "Malmö",
+    "monthlySalarySEK": 34859
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "Mohamed",
+    "gender": "female",
+    "age": 46,
+    "region": "Malmö",
+    "monthlySalarySEK": 37917
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Jörgensen",
+    "gender": "female",
+    "age": 30,
+    "region": "Malmö",
+    "monthlySalarySEK": 37821
+  },
+  {
+    "firstName": "Sigge",
+    "lastName": "Adolfsson",
+    "gender": "male",
+    "age": 28,
+    "region": "Malmö",
+    "monthlySalarySEK": 32126
+  },
+  {
+    "firstName": "Esther",
+    "lastName": "Samuelsson",
+    "gender": "female",
+    "age": 50,
+    "region": "Malmö",
+    "monthlySalarySEK": 50905
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Brodin",
+    "gender": "male",
+    "age": 35,
+    "region": "Stockholm",
+    "monthlySalarySEK": 29918
+  },
+  {
+    "firstName": "Alva",
+    "lastName": "Israelsson",
+    "gender": "female",
+    "age": 27,
+    "region": "Stockholm",
+    "monthlySalarySEK": 33099
+  },
+  {
+    "firstName": "Lova",
+    "lastName": "Ström",
+    "gender": "female",
+    "age": 41,
+    "region": "Stockholm",
+    "monthlySalarySEK": 79660
+  },
+  {
+    "firstName": "Elliot",
+    "lastName": "Nordin",
+    "gender": "male",
+    "age": 35,
+    "region": "Stockholm",
+    "monthlySalarySEK": 29615
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Dahlström",
+    "gender": "male",
+    "age": 21,
+    "region": "Göteborg",
+    "monthlySalarySEK": 44265
+  },
+  {
+    "firstName": "Millie",
+    "lastName": "Nyberg",
+    "gender": "female",
+    "age": 23,
+    "region": "Göteborg",
+    "monthlySalarySEK": 24995
+  },
+  {
+    "firstName": "Elis",
+    "lastName": "Norrman",
+    "gender": "male",
+    "age": 64,
+    "region": "Malmö",
+    "monthlySalarySEK": 118736
+  },
+  {
+    "firstName": "Ludwig",
+    "lastName": "Höglund",
+    "gender": "male",
+    "age": 34,
+    "region": "Malmö",
+    "monthlySalarySEK": 59382
+  },
+  {
+    "firstName": "Hedda",
+    "lastName": "Eriksson",
+    "gender": "female",
+    "age": 55,
+    "region": "Malmö",
+    "monthlySalarySEK": 33241
+  },
+  {
+    "firstName": "Elis",
+    "lastName": "Strandberg",
+    "gender": "male",
+    "age": 36,
+    "region": "Malmö",
+    "monthlySalarySEK": 70775
+  },
+  {
+    "firstName": "Svante",
+    "lastName": "Johannesson",
+    "gender": "male",
+    "age": 19,
+    "region": "Göteborg",
+    "monthlySalarySEK": 26791
+  },
+  {
+    "firstName": "Ines",
+    "lastName": "Lundh",
+    "gender": "female",
+    "age": 30,
+    "region": "Stockholm",
+    "monthlySalarySEK": 30132
+  },
+  {
+    "firstName": "Alvin",
+    "lastName": "Rydén",
+    "gender": "male",
+    "age": 19,
+    "region": "Stockholm",
+    "monthlySalarySEK": 29507
+  },
+  {
+    "firstName": "Matheo",
+    "lastName": "Bertilsson",
+    "gender": "male",
+    "age": 56,
+    "region": "Malmö",
+    "monthlySalarySEK": 78385
+  },
+  {
+    "firstName": "William",
+    "lastName": "Andreasson",
+    "gender": "male",
+    "age": 51,
+    "region": "Stockholm",
+    "monthlySalarySEK": 81224
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Nordgren",
+    "gender": "female",
+    "age": 37,
+    "region": "Göteborg",
+    "monthlySalarySEK": 30856
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Lundahl",
+    "gender": "female",
+    "age": 35,
+    "region": "Malmö",
+    "monthlySalarySEK": 67819
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Sandgren",
+    "gender": "male",
+    "age": 49,
+    "region": "Malmö",
+    "monthlySalarySEK": 46466
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Stenström",
+    "gender": "female",
+    "age": 39,
+    "region": "Malmö",
+    "monthlySalarySEK": 30239
+  },
+  {
+    "firstName": "Stella",
+    "lastName": "Lindskog",
+    "gender": "female",
+    "age": 41,
+    "region": "Stockholm",
+    "monthlySalarySEK": 25463
+  },
+  {
+    "firstName": "Loui",
+    "lastName": "Sundqvist",
+    "gender": "male",
+    "age": 35,
+    "region": "Stockholm",
+    "monthlySalarySEK": 50055
+  },
+  {
+    "firstName": "Loui",
+    "lastName": "Gren",
+    "gender": "male",
+    "age": 27,
+    "region": "Stockholm",
+    "monthlySalarySEK": 30549
+  },
+  {
+    "firstName": "Arvid",
+    "lastName": "Kling",
+    "gender": "male",
+    "age": 56,
+    "region": "Stockholm",
+    "monthlySalarySEK": 78816
+  },
+  {
+    "firstName": "Lykke",
+    "lastName": "Malmqvist",
+    "gender": "female",
+    "age": 46,
+    "region": "Stockholm",
+    "monthlySalarySEK": 87188
+  },
+  {
+    "firstName": "Vidar",
+    "lastName": "Wang",
+    "gender": "male",
+    "age": 59,
+    "region": "Malmö",
+    "monthlySalarySEK": 129308
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Alfredsson",
+    "gender": "female",
+    "age": 63,
+    "region": "Malmö",
+    "monthlySalarySEK": 105338
+  },
+  {
+    "firstName": "Sigge",
+    "lastName": "Holmqvist",
+    "gender": "male",
+    "age": 44,
+    "region": "Stockholm",
+    "monthlySalarySEK": 62019
+  },
+  {
+    "firstName": "Milton",
+    "lastName": "Engvall",
+    "gender": "male",
+    "age": 25,
+    "region": "Göteborg",
+    "monthlySalarySEK": 26204
+  },
+  {
+    "firstName": "Iris",
+    "lastName": "Elofsson",
+    "gender": "female",
+    "age": 30,
+    "region": "Malmö",
+    "monthlySalarySEK": 52876
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Nordlund",
+    "gender": "male",
+    "age": 52,
+    "region": "Göteborg",
+    "monthlySalarySEK": 80285
+  },
+  {
+    "firstName": "Ted",
+    "lastName": "Wallin",
+    "gender": "male",
+    "age": 46,
+    "region": "Malmö",
+    "monthlySalarySEK": 81767
+  },
+  {
+    "firstName": "Ester",
+    "lastName": "Söderholm",
+    "gender": "female",
+    "age": 30,
+    "region": "Malmö",
+    "monthlySalarySEK": 27833
+  },
+  {
+    "firstName": "Esther",
+    "lastName": "Hosseini",
+    "gender": "female",
+    "age": 45,
+    "region": "Göteborg",
+    "monthlySalarySEK": 58900
+  },
+  {
+    "firstName": "Alicia",
+    "lastName": "Nordlander",
+    "gender": "female",
+    "age": 39,
+    "region": "Göteborg",
+    "monthlySalarySEK": 36877
+  },
+  {
+    "firstName": "Tage",
+    "lastName": "Nordlander",
+    "gender": "male",
+    "age": 41,
+    "region": "Göteborg",
+    "monthlySalarySEK": 57603
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Carlson",
+    "gender": "male",
+    "age": 38,
+    "region": "Göteborg",
+    "monthlySalarySEK": 80870
+  },
+  {
+    "firstName": "Colin",
+    "lastName": "Blomqvist",
+    "gender": "male",
+    "age": 57,
+    "region": "Malmö",
+    "monthlySalarySEK": 57347
+  },
+  {
+    "firstName": "Ivar",
+    "lastName": "Adolfsson",
+    "gender": "male",
+    "age": 34,
+    "region": "Malmö",
+    "monthlySalarySEK": 28305
+  },
+  {
+    "firstName": "Vera",
+    "lastName": "Haraldsson",
+    "gender": "female",
+    "age": 59,
+    "region": "Göteborg",
+    "monthlySalarySEK": 48261
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Roth",
+    "gender": "female",
+    "age": 57,
+    "region": "Malmö",
+    "monthlySalarySEK": 65781
+  },
+  {
+    "firstName": "Casper",
+    "lastName": "Nilsson",
+    "gender": "male",
+    "age": 46,
+    "region": "Göteborg",
+    "monthlySalarySEK": 40665
+  },
+  {
+    "firstName": "Aron",
+    "lastName": "Andersson",
+    "gender": "male",
+    "age": 18,
+    "region": "Malmö",
+    "monthlySalarySEK": 34513
+  },
+  {
+    "firstName": "Isabella",
+    "lastName": "Ericson",
+    "gender": "female",
+    "age": 56,
+    "region": "Göteborg",
+    "monthlySalarySEK": 83886
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Pedersen",
+    "gender": "male",
+    "age": 39,
+    "region": "Malmö",
+    "monthlySalarySEK": 61439
+  },
+  {
+    "firstName": "Ebba",
+    "lastName": "Dahlgren",
+    "gender": "female",
+    "age": 53,
+    "region": "Stockholm",
+    "monthlySalarySEK": 39445
+  },
+  {
+    "firstName": "Mila",
+    "lastName": "Nylander",
+    "gender": "female",
+    "age": 22,
+    "region": "Malmö",
+    "monthlySalarySEK": 56167
+  },
+  {
+    "firstName": "Elise",
+    "lastName": "Boman",
+    "gender": "female",
+    "age": 27,
+    "region": "Malmö",
+    "monthlySalarySEK": 39723
+  },
+  {
+    "firstName": "Agnes",
+    "lastName": "Sundqvist",
+    "gender": "female",
+    "age": 18,
+    "region": "Malmö",
+    "monthlySalarySEK": 13974
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Nyberg",
+    "gender": "male",
+    "age": 49,
+    "region": "Malmö",
+    "monthlySalarySEK": 83548
+  },
+  {
+    "firstName": "Matheo",
+    "lastName": "Westberg",
+    "gender": "male",
+    "age": 49,
+    "region": "Malmö",
+    "monthlySalarySEK": 25564
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Edström",
+    "gender": "male",
+    "age": 33,
+    "region": "Göteborg",
+    "monthlySalarySEK": 60196
+  },
+  {
+    "firstName": "Mila",
+    "lastName": "Granström",
+    "gender": "female",
+    "age": 64,
+    "region": "Stockholm",
+    "monthlySalarySEK": 67022
+  },
+  {
+    "firstName": "Ludwig",
+    "lastName": "Nylander",
+    "gender": "male",
+    "age": 39,
+    "region": "Malmö",
+    "monthlySalarySEK": 33888
+  },
+  {
+    "firstName": "Aston",
+    "lastName": "Häggström",
+    "gender": "male",
+    "age": 20,
+    "region": "Göteborg",
+    "monthlySalarySEK": 38501
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Fransson",
+    "gender": "male",
+    "age": 32,
+    "region": "Stockholm",
+    "monthlySalarySEK": 47746
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Torstensson",
+    "gender": "male",
+    "age": 31,
+    "region": "Göteborg",
+    "monthlySalarySEK": 64188
+  },
+  {
+    "firstName": "Love",
+    "lastName": "Johnsson",
+    "gender": "male",
+    "age": 30,
+    "region": "Stockholm",
+    "monthlySalarySEK": 49284
+  },
+  {
+    "firstName": "Celine",
+    "lastName": "Nguyen",
+    "gender": "female",
+    "age": 59,
+    "region": "Stockholm",
+    "monthlySalarySEK": 44525
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Elofsson",
+    "gender": "male",
+    "age": 44,
+    "region": "Göteborg",
+    "monthlySalarySEK": 80666
+  },
+  {
+    "firstName": "Ludwig",
+    "lastName": "Ingvarsson",
+    "gender": "male",
+    "age": 26,
+    "region": "Göteborg",
+    "monthlySalarySEK": 54993
+  },
+  {
+    "firstName": "Agnes",
+    "lastName": "Norling",
+    "gender": "female",
+    "age": 62,
+    "region": "Stockholm",
+    "monthlySalarySEK": 63653
+  },
+  {
+    "firstName": "Alvin",
+    "lastName": "Wiklund",
+    "gender": "male",
+    "age": 51,
+    "region": "Stockholm",
+    "monthlySalarySEK": 86498
+  },
+  {
+    "firstName": "Klara",
+    "lastName": "Engvall",
+    "gender": "female",
+    "age": 25,
+    "region": "Stockholm",
+    "monthlySalarySEK": 17812
+  },
+  {
+    "firstName": "Molly",
+    "lastName": "Isaksson",
+    "gender": "female",
+    "age": 57,
+    "region": "Malmö",
+    "monthlySalarySEK": 33777
+  },
+  {
+    "firstName": "Wilma",
+    "lastName": "Nguyen",
+    "gender": "female",
+    "age": 62,
+    "region": "Stockholm",
+    "monthlySalarySEK": 85988
+  },
+  {
+    "firstName": "Nova",
+    "lastName": "Hagberg",
+    "gender": "female",
+    "age": 25,
+    "region": "Malmö",
+    "monthlySalarySEK": 47644
+  },
+  {
+    "firstName": "Lykke",
+    "lastName": "Jönsson",
+    "gender": "female",
+    "age": 50,
+    "region": "Stockholm",
+    "monthlySalarySEK": 63426
+  },
+  {
+    "firstName": "Emilia",
+    "lastName": "Yusuf",
+    "gender": "female",
+    "age": 27,
+    "region": "Malmö",
+    "monthlySalarySEK": 38643
+  },
+  {
+    "firstName": "Astrid",
+    "lastName": "Lind",
+    "gender": "female",
+    "age": 31,
+    "region": "Malmö",
+    "monthlySalarySEK": 42995
+  },
+  {
+    "firstName": "Luna",
+    "lastName": "Lundin",
+    "gender": "female",
+    "age": 58,
+    "region": "Malmö",
+    "monthlySalarySEK": 63479
+  },
+  {
+    "firstName": "Liv",
+    "lastName": "Backman",
+    "gender": "female",
+    "age": 60,
+    "region": "Malmö",
+    "monthlySalarySEK": 119820
+  },
+  {
+    "firstName": "Emilia",
+    "lastName": "Bodin",
+    "gender": "female",
+    "age": 34,
+    "region": "Malmö",
+    "monthlySalarySEK": 64566
+  },
+  {
+    "firstName": "Alina",
+    "lastName": "Holmström",
+    "gender": "female",
+    "age": 48,
+    "region": "Göteborg",
+    "monthlySalarySEK": 56589
+  },
+  {
+    "firstName": "Wilhelm",
+    "lastName": "Jonsson",
+    "gender": "male",
+    "age": 32,
+    "region": "Malmö",
+    "monthlySalarySEK": 34535
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Abdi",
+    "gender": "male",
+    "age": 44,
+    "region": "Göteborg",
+    "monthlySalarySEK": 78218
+  },
+  {
+    "firstName": "Ines",
+    "lastName": "Svedberg",
+    "gender": "female",
+    "age": 26,
+    "region": "Göteborg",
+    "monthlySalarySEK": 37051
+  },
+  {
+    "firstName": "Lovisa",
+    "lastName": "Lennartsson",
+    "gender": "female",
+    "age": 19,
+    "region": "Stockholm",
+    "monthlySalarySEK": 38081
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Emilsson",
+    "gender": "male",
+    "age": 22,
+    "region": "Malmö",
+    "monthlySalarySEK": 48780
+  },
+  {
+    "firstName": "Ludvig",
+    "lastName": "Henningsson",
+    "gender": "male",
+    "age": 37,
+    "region": "Stockholm",
+    "monthlySalarySEK": 38138
+  },
+  {
+    "firstName": "Walter",
+    "lastName": "Lidén",
+    "gender": "male",
+    "age": 32,
+    "region": "Göteborg",
+    "monthlySalarySEK": 63809
+  },
+  {
+    "firstName": "Hedda",
+    "lastName": "Nguyen",
+    "gender": "female",
+    "age": 42,
+    "region": "Malmö",
+    "monthlySalarySEK": 70233
+  },
+  {
+    "firstName": "Nora",
+    "lastName": "Gren",
+    "gender": "female",
+    "age": 27,
+    "region": "Göteborg",
+    "monthlySalarySEK": 26445
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Isaksson",
+    "gender": "female",
+    "age": 45,
+    "region": "Stockholm",
+    "monthlySalarySEK": 34442
+  },
+  {
+    "firstName": "Hilma",
+    "lastName": "Lundahl",
+    "gender": "female",
+    "age": 61,
+    "region": "Stockholm",
+    "monthlySalarySEK": 65628
+  },
+  {
+    "firstName": "Nora",
+    "lastName": "Ekstrand",
+    "gender": "female",
+    "age": 50,
+    "region": "Malmö",
+    "monthlySalarySEK": 46710
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Brännström",
+    "gender": "female",
+    "age": 20,
+    "region": "Stockholm",
+    "monthlySalarySEK": 27893
+  },
+  {
+    "firstName": "Freya",
+    "lastName": "Lundberg",
+    "gender": "female",
+    "age": 49,
+    "region": "Stockholm",
+    "monthlySalarySEK": 39123
+  },
+  {
+    "firstName": "William",
+    "lastName": "Westin",
+    "gender": "male",
+    "age": 43,
+    "region": "Malmö",
+    "monthlySalarySEK": 41210
+  },
+  {
+    "firstName": "Leon",
+    "lastName": "Bergvall",
+    "gender": "male",
+    "age": 30,
+    "region": "Malmö",
+    "monthlySalarySEK": 26444
+  },
+  {
+    "firstName": "Svante",
+    "lastName": "Sandell",
+    "gender": "male",
+    "age": 53,
+    "region": "Stockholm",
+    "monthlySalarySEK": 100470
+  },
+  {
+    "firstName": "Folke",
+    "lastName": "Dahlén",
+    "gender": "male",
+    "age": 63,
+    "region": "Stockholm",
+    "monthlySalarySEK": 130780
+  },
+  {
+    "firstName": "Elvira",
+    "lastName": "Näslund",
+    "gender": "female",
+    "age": 48,
+    "region": "Malmö",
+    "monthlySalarySEK": 22128
+  },
+  {
+    "firstName": "Melina",
+    "lastName": "Kristiansson",
+    "gender": "female",
+    "age": 57,
+    "region": "Malmö",
+    "monthlySalarySEK": 96343
+  },
+  {
+    "firstName": "Elsie",
+    "lastName": "Ekberg",
+    "gender": "female",
+    "age": 35,
+    "region": "Stockholm",
+    "monthlySalarySEK": 44539
+  },
+  {
+    "firstName": "Majken",
+    "lastName": "Svanberg",
+    "gender": "female",
+    "age": 32,
+    "region": "Stockholm",
+    "monthlySalarySEK": 46588
+  },
+  {
+    "firstName": "Alicia",
+    "lastName": "Ericsson",
+    "gender": "female",
+    "age": 22,
+    "region": "Göteborg",
+    "monthlySalarySEK": 16854
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Vallin",
+    "gender": "male",
+    "age": 61,
+    "region": "Malmö",
+    "monthlySalarySEK": 106581
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Ekelund",
+    "gender": "female",
+    "age": 48,
+    "region": "Göteborg",
+    "monthlySalarySEK": 81293
+  },
+  {
+    "firstName": "Juni",
+    "lastName": "Thor",
+    "gender": "female",
+    "age": 34,
+    "region": "Göteborg",
+    "monthlySalarySEK": 37205
+  },
+  {
+    "firstName": "Nova",
+    "lastName": "Häggström",
+    "gender": "female",
+    "age": 22,
+    "region": "Malmö",
+    "monthlySalarySEK": 41271
+  },
+  {
+    "firstName": "Matheo",
+    "lastName": "Johnson",
+    "gender": "male",
+    "age": 44,
+    "region": "Stockholm",
+    "monthlySalarySEK": 48903
+  },
+  {
+    "firstName": "Frans",
+    "lastName": "Ingvarsson",
+    "gender": "male",
+    "age": 56,
+    "region": "Malmö",
+    "monthlySalarySEK": 57635
+  },
+  {
+    "firstName": "Theodor",
+    "lastName": "Augustsson",
+    "gender": "male",
+    "age": 38,
+    "region": "Malmö",
+    "monthlySalarySEK": 50313
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Nyberg",
+    "gender": "female",
+    "age": 41,
+    "region": "Malmö",
+    "monthlySalarySEK": 64417
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Wallgren",
+    "gender": "male",
+    "age": 47,
+    "region": "Göteborg",
+    "monthlySalarySEK": 72296
+  },
+  {
+    "firstName": "Viggo",
+    "lastName": "Hellman",
+    "gender": "male",
+    "age": 23,
+    "region": "Malmö",
+    "monthlySalarySEK": 33195
+  },
+  {
+    "firstName": "Iris",
+    "lastName": "Svensson",
+    "gender": "female",
+    "age": 39,
+    "region": "Stockholm",
+    "monthlySalarySEK": 54019
+  },
+  {
+    "firstName": "Ingrid",
+    "lastName": "Åslund",
+    "gender": "female",
+    "age": 49,
+    "region": "Göteborg",
+    "monthlySalarySEK": 41803
+  },
+  {
+    "firstName": "Livia",
+    "lastName": "Granlund",
+    "gender": "female",
+    "age": 45,
+    "region": "Stockholm",
+    "monthlySalarySEK": 64818
+  },
+  {
+    "firstName": "Maja",
+    "lastName": "Sjöholm",
+    "gender": "female",
+    "age": 20,
+    "region": "Stockholm",
+    "monthlySalarySEK": 17201
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Juhlin",
+    "gender": "female",
+    "age": 60,
+    "region": "Malmö",
+    "monthlySalarySEK": 51916
+  },
+  {
+    "firstName": "Valter",
+    "lastName": "Östberg",
+    "gender": "male",
+    "age": 28,
+    "region": "Malmö",
+    "monthlySalarySEK": 64950
+  },
+  {
+    "firstName": "Lo",
+    "lastName": "Norling",
+    "gender": "female",
+    "age": 25,
+    "region": "Malmö",
+    "monthlySalarySEK": 21001
+  },
+  {
+    "firstName": "Alvin",
+    "lastName": "Danielsson",
+    "gender": "male",
+    "age": 23,
+    "region": "Göteborg",
+    "monthlySalarySEK": 34445
+  },
+  {
+    "firstName": "Folke",
+    "lastName": "Rasmussen",
+    "gender": "male",
+    "age": 42,
+    "region": "Stockholm",
+    "monthlySalarySEK": 91058
+  },
+  {
+    "firstName": "Nova",
+    "lastName": "Ahlgren",
+    "gender": "female",
+    "age": 55,
+    "region": "Göteborg",
+    "monthlySalarySEK": 36207
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "Lövgren",
+    "gender": "female",
+    "age": 45,
+    "region": "Göteborg",
+    "monthlySalarySEK": 88729
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Hallström",
+    "gender": "male",
+    "age": 24,
+    "region": "Göteborg",
+    "monthlySalarySEK": 31312
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Thor",
+    "gender": "male",
+    "age": 36,
+    "region": "Göteborg",
+    "monthlySalarySEK": 54138
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Rasmusson",
+    "gender": "female",
+    "age": 22,
+    "region": "Göteborg",
+    "monthlySalarySEK": 32116
+  },
+  {
+    "firstName": "Linnéa",
+    "lastName": "Osman",
+    "gender": "female",
+    "age": 28,
+    "region": "Göteborg",
+    "monthlySalarySEK": 52541
+  },
+  {
+    "firstName": "Rut",
+    "lastName": "Lundahl",
+    "gender": "female",
+    "age": 33,
+    "region": "Malmö",
+    "monthlySalarySEK": 64815
+  },
+  {
+    "firstName": "Esther",
+    "lastName": "Hanna",
+    "gender": "female",
+    "age": 28,
+    "region": "Stockholm",
+    "monthlySalarySEK": 55948
+  },
+  {
+    "firstName": "Juni",
+    "lastName": "Jarl",
+    "gender": "female",
+    "age": 34,
+    "region": "Stockholm",
+    "monthlySalarySEK": 56597
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Rydberg",
+    "gender": "female",
+    "age": 27,
+    "region": "Göteborg",
+    "monthlySalarySEK": 30855
+  },
+  {
+    "firstName": "Viola",
+    "lastName": "Klasson",
+    "gender": "female",
+    "age": 41,
+    "region": "Stockholm",
+    "monthlySalarySEK": 39464
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Strand",
+    "gender": "male",
+    "age": 43,
+    "region": "Stockholm",
+    "monthlySalarySEK": 96394
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Lundblad",
+    "gender": "female",
+    "age": 37,
+    "region": "Göteborg",
+    "monthlySalarySEK": 55107
+  },
+  {
+    "firstName": "Agnes",
+    "lastName": "Sandgren",
+    "gender": "female",
+    "age": 58,
+    "region": "Stockholm",
+    "monthlySalarySEK": 59277
+  },
+  {
+    "firstName": "Luna",
+    "lastName": "Asplund",
+    "gender": "female",
+    "age": 52,
+    "region": "Malmö",
+    "monthlySalarySEK": 83151
+  },
+  {
+    "firstName": "Stella",
+    "lastName": "Forsell",
+    "gender": "female",
+    "age": 29,
+    "region": "Göteborg",
+    "monthlySalarySEK": 32406
+  },
+  {
+    "firstName": "Folke",
+    "lastName": "Hagberg",
+    "gender": "male",
+    "age": 34,
+    "region": "Göteborg",
+    "monthlySalarySEK": 34521
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Ingvarsson",
+    "gender": "female",
+    "age": 52,
+    "region": "Göteborg",
+    "monthlySalarySEK": 38292
+  },
+  {
+    "firstName": "Wilhelm",
+    "lastName": "Bergsten",
+    "gender": "male",
+    "age": 59,
+    "region": "Stockholm",
+    "monthlySalarySEK": 81598
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Petersen",
+    "gender": "male",
+    "age": 27,
+    "region": "Stockholm",
+    "monthlySalarySEK": 26067
+  },
+  {
+    "firstName": "Thea",
+    "lastName": "Strid",
+    "gender": "female",
+    "age": 37,
+    "region": "Malmö",
+    "monthlySalarySEK": 62274
+  },
+  {
+    "firstName": "Mila",
+    "lastName": "Sundberg",
+    "gender": "female",
+    "age": 60,
+    "region": "Göteborg",
+    "monthlySalarySEK": 85354
+  },
+  {
+    "firstName": "Lovisa",
+    "lastName": "Höglund",
+    "gender": "female",
+    "age": 25,
+    "region": "Malmö",
+    "monthlySalarySEK": 32935
+  },
+  {
+    "firstName": "Rut",
+    "lastName": "Ekelund",
+    "gender": "female",
+    "age": 31,
+    "region": "Göteborg",
+    "monthlySalarySEK": 61021
+  },
+  {
+    "firstName": "August",
+    "lastName": "Lundkvist",
+    "gender": "male",
+    "age": 60,
+    "region": "Göteborg",
+    "monthlySalarySEK": 67770
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Björklund",
+    "gender": "male",
+    "age": 44,
+    "region": "Göteborg",
+    "monthlySalarySEK": 49796
+  },
+  {
+    "firstName": "Molly",
+    "lastName": "Holmberg",
+    "gender": "female",
+    "age": 59,
+    "region": "Göteborg",
+    "monthlySalarySEK": 41976
+  },
+  {
+    "firstName": "Valter",
+    "lastName": "Håkansson",
+    "gender": "male",
+    "age": 35,
+    "region": "Stockholm",
+    "monthlySalarySEK": 57854
+  },
+  {
+    "firstName": "Maximilian",
+    "lastName": "Gabrielsson",
+    "gender": "male",
+    "age": 28,
+    "region": "Malmö",
+    "monthlySalarySEK": 28309
+  },
+  {
+    "firstName": "Rut",
+    "lastName": "Abdi",
+    "gender": "female",
+    "age": 31,
+    "region": "Malmö",
+    "monthlySalarySEK": 39810
+  },
+  {
+    "firstName": "Ilse",
+    "lastName": "Karlberg",
+    "gender": "female",
+    "age": 60,
+    "region": "Malmö",
+    "monthlySalarySEK": 22140
+  },
+  {
+    "firstName": "Nellie",
+    "lastName": "Ekdahl",
+    "gender": "female",
+    "age": 51,
+    "region": "Stockholm",
+    "monthlySalarySEK": 41553
+  },
+  {
+    "firstName": "Sally",
+    "lastName": "Khalil",
+    "gender": "female",
+    "age": 43,
+    "region": "Malmö",
+    "monthlySalarySEK": 33595
+  },
+  {
+    "firstName": "Algot",
+    "lastName": "Hellman",
+    "gender": "male",
+    "age": 35,
+    "region": "Göteborg",
+    "monthlySalarySEK": 55465
+  },
+  {
+    "firstName": "Ted",
+    "lastName": "Lindgren",
+    "gender": "male",
+    "age": 33,
+    "region": "Göteborg",
+    "monthlySalarySEK": 28739
+  },
+  {
+    "firstName": "Freja",
+    "lastName": "Tran",
+    "gender": "female",
+    "age": 35,
+    "region": "Malmö",
+    "monthlySalarySEK": 42907
+  },
+  {
+    "firstName": "Nils",
+    "lastName": "Haglund",
+    "gender": "male",
+    "age": 34,
+    "region": "Stockholm",
+    "monthlySalarySEK": 29074
+  },
+  {
+    "firstName": "Nils",
+    "lastName": "Josefsson",
+    "gender": "male",
+    "age": 26,
+    "region": "Göteborg",
+    "monthlySalarySEK": 46963
+  },
+  {
+    "firstName": "Klara",
+    "lastName": "Borgström",
+    "gender": "female",
+    "age": 55,
+    "region": "Göteborg",
+    "monthlySalarySEK": 111076
+  },
+  {
+    "firstName": "Louie",
+    "lastName": "Grönlund",
+    "gender": "male",
+    "age": 53,
+    "region": "Göteborg",
+    "monthlySalarySEK": 46614
+  },
+  {
+    "firstName": "Ingrid",
+    "lastName": "Werner",
+    "gender": "female",
+    "age": 27,
+    "region": "Stockholm",
+    "monthlySalarySEK": 51893
+  },
+  {
+    "firstName": "Nova",
+    "lastName": "Ibrahim",
+    "gender": "female",
+    "age": 36,
+    "region": "Göteborg",
+    "monthlySalarySEK": 46658
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Hedman",
+    "gender": "male",
+    "age": 28,
+    "region": "Stockholm",
+    "monthlySalarySEK": 48342
+  },
+  {
+    "firstName": "Märta",
+    "lastName": "Ismail",
+    "gender": "female",
+    "age": 24,
+    "region": "Göteborg",
+    "monthlySalarySEK": 31199
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Hedlund",
+    "gender": "male",
+    "age": 57,
+    "region": "Göteborg",
+    "monthlySalarySEK": 46050
+  },
+  {
+    "firstName": "Hilda",
+    "lastName": "Andrén",
+    "gender": "female",
+    "age": 37,
+    "region": "Göteborg",
+    "monthlySalarySEK": 70748
+  },
+  {
+    "firstName": "Vilma",
+    "lastName": "Lindgren",
+    "gender": "female",
+    "age": 31,
+    "region": "Malmö",
+    "monthlySalarySEK": 36276
+  },
+  {
+    "firstName": "Lara",
+    "lastName": "Arvidsson",
+    "gender": "female",
+    "age": 37,
+    "region": "Malmö",
+    "monthlySalarySEK": 33180
+  },
+  {
+    "firstName": "Melvin",
+    "lastName": "Håkansson",
+    "gender": "male",
+    "age": 42,
+    "region": "Stockholm",
+    "monthlySalarySEK": 75703
+  },
+  {
+    "firstName": "Leah",
+    "lastName": "Nordström",
+    "gender": "female",
+    "age": 59,
+    "region": "Göteborg",
+    "monthlySalarySEK": 97335
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Lindquist",
+    "gender": "male",
+    "age": 28,
+    "region": "Malmö",
+    "monthlySalarySEK": 59139
+  },
+  {
+    "firstName": "Liv",
+    "lastName": "Ström",
+    "gender": "female",
+    "age": 36,
+    "region": "Stockholm",
+    "monthlySalarySEK": 39131
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Frank",
+    "gender": "male",
+    "age": 51,
+    "region": "Göteborg",
+    "monthlySalarySEK": 106723
+  },
+  {
+    "firstName": "Axel",
+    "lastName": "Löfgren",
+    "gender": "male",
+    "age": 58,
+    "region": "Göteborg",
+    "monthlySalarySEK": 108445
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Brink",
+    "gender": "male",
+    "age": 24,
+    "region": "Göteborg",
+    "monthlySalarySEK": 25448
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Sjöblom",
+    "gender": "male",
+    "age": 55,
+    "region": "Stockholm",
+    "monthlySalarySEK": 46352
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Ahmed",
+    "gender": "male",
+    "age": 57,
+    "region": "Malmö",
+    "monthlySalarySEK": 92919
+  },
+  {
+    "firstName": "Lilly",
+    "lastName": "Olausson",
+    "gender": "female",
+    "age": 49,
+    "region": "Malmö",
+    "monthlySalarySEK": 55384
+  },
+  {
+    "firstName": "Svante",
+    "lastName": "Sjöstrand",
+    "gender": "male",
+    "age": 48,
+    "region": "Göteborg",
+    "monthlySalarySEK": 57607
+  },
+  {
+    "firstName": "Melvin",
+    "lastName": "Hellström",
+    "gender": "male",
+    "age": 32,
+    "region": "Göteborg",
+    "monthlySalarySEK": 51604
+  },
+  {
+    "firstName": "Elton",
+    "lastName": "Falk",
+    "gender": "male",
+    "age": 40,
+    "region": "Stockholm",
+    "monthlySalarySEK": 47298
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Jarl",
+    "gender": "female",
+    "age": 24,
+    "region": "Göteborg",
+    "monthlySalarySEK": 39708
+  },
+  {
+    "firstName": "Maja",
+    "lastName": "Jönsson",
+    "gender": "female",
+    "age": 31,
+    "region": "Göteborg",
+    "monthlySalarySEK": 29224
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Bolin",
+    "gender": "female",
+    "age": 18,
+    "region": "Malmö",
+    "monthlySalarySEK": 27882
+  },
+  {
+    "firstName": "Maximilian",
+    "lastName": "Linde",
+    "gender": "male",
+    "age": 37,
+    "region": "Malmö",
+    "monthlySalarySEK": 42321
+  },
+  {
+    "firstName": "Vide",
+    "lastName": "Jakobsson",
+    "gender": "male",
+    "age": 36,
+    "region": "Stockholm",
+    "monthlySalarySEK": 69559
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Kjellberg",
+    "gender": "male",
+    "age": 52,
+    "region": "Göteborg",
+    "monthlySalarySEK": 53113
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Nordgren",
+    "gender": "female",
+    "age": 36,
+    "region": "Stockholm",
+    "monthlySalarySEK": 71686
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Hosseini",
+    "gender": "male",
+    "age": 46,
+    "region": "Stockholm",
+    "monthlySalarySEK": 55685
+  },
+  {
+    "firstName": "Lukas",
+    "lastName": "Öberg",
+    "gender": "male",
+    "age": 41,
+    "region": "Stockholm",
+    "monthlySalarySEK": 35747
+  },
+  {
+    "firstName": "Nova",
+    "lastName": "Frisk",
+    "gender": "female",
+    "age": 28,
+    "region": "Göteborg",
+    "monthlySalarySEK": 25538
+  },
+  {
+    "firstName": "Hedda",
+    "lastName": "Wahlgren",
+    "gender": "female",
+    "age": 31,
+    "region": "Göteborg",
+    "monthlySalarySEK": 31280
+  },
+  {
+    "firstName": "Ines",
+    "lastName": "Ahlin",
+    "gender": "female",
+    "age": 39,
+    "region": "Göteborg",
+    "monthlySalarySEK": 65517
+  },
+  {
+    "firstName": "Tage",
+    "lastName": "Åkerblom",
+    "gender": "male",
+    "age": 47,
+    "region": "Malmö",
+    "monthlySalarySEK": 48713
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Westerlund",
+    "gender": "female",
+    "age": 45,
+    "region": "Stockholm",
+    "monthlySalarySEK": 47340
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Svantesson",
+    "gender": "male",
+    "age": 50,
+    "region": "Malmö",
+    "monthlySalarySEK": 68313
+  },
+  {
+    "firstName": "Lukas",
+    "lastName": "Green",
+    "gender": "male",
+    "age": 32,
+    "region": "Stockholm",
+    "monthlySalarySEK": 46378
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Ahlqvist",
+    "gender": "female",
+    "age": 42,
+    "region": "Göteborg",
+    "monthlySalarySEK": 22228
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Borg",
+    "gender": "female",
+    "age": 51,
+    "region": "Göteborg",
+    "monthlySalarySEK": 78109
+  },
+  {
+    "firstName": "Amir",
+    "lastName": "Israelsson",
+    "gender": "male",
+    "age": 53,
+    "region": "Malmö",
+    "monthlySalarySEK": 76395
+  },
+  {
+    "firstName": "Melissa",
+    "lastName": "Abrahamsson",
+    "gender": "female",
+    "age": 21,
+    "region": "Stockholm",
+    "monthlySalarySEK": 43957
+  },
+  {
+    "firstName": "Stina",
+    "lastName": "Gashi",
+    "gender": "female",
+    "age": 31,
+    "region": "Malmö",
+    "monthlySalarySEK": 32444
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Hellgren",
+    "gender": "male",
+    "age": 56,
+    "region": "Stockholm",
+    "monthlySalarySEK": 29807
+  },
+  {
+    "firstName": "Maja",
+    "lastName": "Norman",
+    "gender": "female",
+    "age": 49,
+    "region": "Stockholm",
+    "monthlySalarySEK": 46675
+  },
+  {
+    "firstName": "Tyra",
+    "lastName": "Gabrielsson",
+    "gender": "female",
+    "age": 33,
+    "region": "Malmö",
+    "monthlySalarySEK": 45325
+  },
+  {
+    "firstName": "Viola",
+    "lastName": "Hansen",
+    "gender": "female",
+    "age": 51,
+    "region": "Göteborg",
+    "monthlySalarySEK": 48360
+  },
+  {
+    "firstName": "Erik",
+    "lastName": "Petersen",
+    "gender": "male",
+    "age": 38,
+    "region": "Göteborg",
+    "monthlySalarySEK": 66939
+  },
+  {
+    "firstName": "Algot",
+    "lastName": "Wallin",
+    "gender": "male",
+    "age": 25,
+    "region": "Malmö",
+    "monthlySalarySEK": 39667
+  },
+  {
+    "firstName": "Lovis",
+    "lastName": "Söderström",
+    "gender": "female",
+    "age": 60,
+    "region": "Stockholm",
+    "monthlySalarySEK": 60792
+  },
+  {
+    "firstName": "Freya",
+    "lastName": "Bergqvist",
+    "gender": "female",
+    "age": 58,
+    "region": "Stockholm",
+    "monthlySalarySEK": 67287
+  },
+  {
+    "firstName": "Lo",
+    "lastName": "Winberg",
+    "gender": "female",
+    "age": 54,
+    "region": "Malmö",
+    "monthlySalarySEK": 64238
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Hultman",
+    "gender": "male",
+    "age": 31,
+    "region": "Göteborg",
+    "monthlySalarySEK": 49618
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Broberg",
+    "gender": "male",
+    "age": 63,
+    "region": "Stockholm",
+    "monthlySalarySEK": 53906
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Fransson",
+    "gender": "female",
+    "age": 55,
+    "region": "Malmö",
+    "monthlySalarySEK": 89217
+  },
+  {
+    "firstName": "Malte",
+    "lastName": "Flink",
+    "gender": "male",
+    "age": 52,
+    "region": "Stockholm",
+    "monthlySalarySEK": 97219
+  },
+  {
+    "firstName": "Isak",
+    "lastName": "Bäckman",
+    "gender": "male",
+    "age": 35,
+    "region": "Göteborg",
+    "monthlySalarySEK": 32823
+  },
+  {
+    "firstName": "Sally",
+    "lastName": "Westlund",
+    "gender": "female",
+    "age": 22,
+    "region": "Malmö",
+    "monthlySalarySEK": 24488
+  },
+  {
+    "firstName": "William",
+    "lastName": "Ahlqvist",
+    "gender": "male",
+    "age": 36,
+    "region": "Stockholm",
+    "monthlySalarySEK": 62161
+  },
+  {
+    "firstName": "Vide",
+    "lastName": "Mohamud",
+    "gender": "male",
+    "age": 49,
+    "region": "Göteborg",
+    "monthlySalarySEK": 102868
+  },
+  {
+    "firstName": "Signe",
+    "lastName": "Sundell",
+    "gender": "female",
+    "age": 54,
+    "region": "Göteborg",
+    "monthlySalarySEK": 26680
+  },
+  {
+    "firstName": "Milo",
+    "lastName": "Thor",
+    "gender": "male",
+    "age": 36,
+    "region": "Stockholm",
+    "monthlySalarySEK": 52605
+  },
+  {
+    "firstName": "Isabella",
+    "lastName": "Berntsson",
+    "gender": "female",
+    "age": 38,
+    "region": "Göteborg",
+    "monthlySalarySEK": 66102
+  },
+  {
+    "firstName": "Colin",
+    "lastName": "Holm",
+    "gender": "male",
+    "age": 25,
+    "region": "Stockholm",
+    "monthlySalarySEK": 24133
+  },
+  {
+    "firstName": "Kian",
+    "lastName": "Blomgren",
+    "gender": "male",
+    "age": 49,
+    "region": "Stockholm",
+    "monthlySalarySEK": 62267
+  },
+  {
+    "firstName": "Leah",
+    "lastName": "Ekman",
+    "gender": "female",
+    "age": 36,
+    "region": "Stockholm",
+    "monthlySalarySEK": 46726
+  },
+  {
+    "firstName": "Filip",
+    "lastName": "Bolin",
+    "gender": "male",
+    "age": 21,
+    "region": "Göteborg",
+    "monthlySalarySEK": 67252
+  },
+  {
+    "firstName": "Vide",
+    "lastName": "Gunnarsson",
+    "gender": "male",
+    "age": 57,
+    "region": "Göteborg",
+    "monthlySalarySEK": 46214
+  },
+  {
+    "firstName": "Ingrid",
+    "lastName": "Wang",
+    "gender": "female",
+    "age": 22,
+    "region": "Malmö",
+    "monthlySalarySEK": 38251
+  },
+  {
+    "firstName": "Leon",
+    "lastName": "Frisk",
+    "gender": "male",
+    "age": 42,
+    "region": "Malmö",
+    "monthlySalarySEK": 66073
+  },
+  {
+    "firstName": "Hedda",
+    "lastName": "Levin",
+    "gender": "female",
+    "age": 27,
+    "region": "Malmö",
+    "monthlySalarySEK": 26784
+  },
+  {
+    "firstName": "Linnéa",
+    "lastName": "Nordström",
+    "gender": "female",
+    "age": 34,
+    "region": "Malmö",
+    "monthlySalarySEK": 53258
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Åkesson",
+    "gender": "male",
+    "age": 22,
+    "region": "Stockholm",
+    "monthlySalarySEK": 29357
+  },
+  {
+    "firstName": "Isak",
+    "lastName": "Carlsson",
+    "gender": "male",
+    "age": 49,
+    "region": "Göteborg",
+    "monthlySalarySEK": 53595
+  },
+  {
+    "firstName": "Ebbe",
+    "lastName": "Åkerblom",
+    "gender": "male",
+    "age": 57,
+    "region": "Stockholm",
+    "monthlySalarySEK": 41824
+  },
+  {
+    "firstName": "Emilia",
+    "lastName": "Magnusson",
+    "gender": "female",
+    "age": 37,
+    "region": "Göteborg",
+    "monthlySalarySEK": 28338
+  },
+  {
+    "firstName": "Vide",
+    "lastName": "Ibrahim",
+    "gender": "male",
+    "age": 19,
+    "region": "Stockholm",
+    "monthlySalarySEK": 22355
+  },
+  {
+    "firstName": "Alba",
+    "lastName": "Sjöberg",
+    "gender": "female",
+    "age": 49,
+    "region": "Malmö",
+    "monthlySalarySEK": 33501
+  },
+  {
+    "firstName": "Stella",
+    "lastName": "Skoglund",
+    "gender": "female",
+    "age": 41,
+    "region": "Malmö",
+    "monthlySalarySEK": 58098
+  },
+  {
+    "firstName": "Theo",
+    "lastName": "Nylander",
+    "gender": "male",
+    "age": 56,
+    "region": "Göteborg",
+    "monthlySalarySEK": 114382
+  },
+  {
+    "firstName": "Maja",
+    "lastName": "Dahlström",
+    "gender": "female",
+    "age": 29,
+    "region": "Stockholm",
+    "monthlySalarySEK": 49530
+  },
+  {
+    "firstName": "Wilhelm",
+    "lastName": "Eklöf",
+    "gender": "male",
+    "age": 49,
+    "region": "Malmö",
+    "monthlySalarySEK": 38256
+  },
+  {
+    "firstName": "Nora",
+    "lastName": "Johnsson",
+    "gender": "female",
+    "age": 52,
+    "region": "Stockholm",
+    "monthlySalarySEK": 95066
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Lidén",
+    "gender": "male",
+    "age": 57,
+    "region": "Stockholm",
+    "monthlySalarySEK": 107030
+  },
+  {
+    "firstName": "Folke",
+    "lastName": "Engvall",
+    "gender": "male",
+    "age": 49,
+    "region": "Malmö",
+    "monthlySalarySEK": 77154
+  },
+  {
+    "firstName": "Wilma",
+    "lastName": "Flink",
+    "gender": "female",
+    "age": 57,
+    "region": "Göteborg",
+    "monthlySalarySEK": 68534
+  },
+  {
+    "firstName": "Sigge",
+    "lastName": "Källström",
+    "gender": "male",
+    "age": 27,
+    "region": "Stockholm",
+    "monthlySalarySEK": 56947
+  },
+  {
+    "firstName": "Noel",
+    "lastName": "Storm",
+    "gender": "male",
+    "age": 26,
+    "region": "Malmö",
+    "monthlySalarySEK": 55282
+  },
+  {
+    "firstName": "Signe",
+    "lastName": "Gustafsson",
+    "gender": "female",
+    "age": 27,
+    "region": "Göteborg",
+    "monthlySalarySEK": 54922
+  },
+  {
+    "firstName": "Inez",
+    "lastName": "Dahlström",
+    "gender": "female",
+    "age": 33,
+    "region": "Malmö",
+    "monthlySalarySEK": 49123
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Ekström",
+    "gender": "male",
+    "age": 56,
+    "region": "Stockholm",
+    "monthlySalarySEK": 115485
+  },
+  {
+    "firstName": "Esther",
+    "lastName": "Mårtensson",
+    "gender": "female",
+    "age": 39,
+    "region": "Malmö",
+    "monthlySalarySEK": 54588
+  },
+  {
+    "firstName": "Loke",
+    "lastName": "Hammar",
+    "gender": "male",
+    "age": 29,
+    "region": "Malmö",
+    "monthlySalarySEK": 23483
+  },
+  {
+    "firstName": "Alicia",
+    "lastName": "Tran",
+    "gender": "female",
+    "age": 63,
+    "region": "Malmö",
+    "monthlySalarySEK": 105982
+  },
+  {
+    "firstName": "Märta",
+    "lastName": "Törnqvist",
+    "gender": "female",
+    "age": 20,
+    "region": "Stockholm",
+    "monthlySalarySEK": 27380
+  },
+  {
+    "firstName": "Ingrid",
+    "lastName": "Alexandersson",
+    "gender": "female",
+    "age": 25,
+    "region": "Malmö",
+    "monthlySalarySEK": 41230
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Norling",
+    "gender": "male",
+    "age": 63,
+    "region": "Stockholm",
+    "monthlySalarySEK": 52781
+  },
+  {
+    "firstName": "Algot",
+    "lastName": "Ågren",
+    "gender": "male",
+    "age": 64,
+    "region": "Stockholm",
+    "monthlySalarySEK": 68684
+  },
+  {
+    "firstName": "Alve",
+    "lastName": "Sundell",
+    "gender": "male",
+    "age": 57,
+    "region": "Malmö",
+    "monthlySalarySEK": 33834
+  },
+  {
+    "firstName": "Elise",
+    "lastName": "Bergkvist",
+    "gender": "female",
+    "age": 30,
+    "region": "Malmö",
+    "monthlySalarySEK": 31030
+  },
+  {
+    "firstName": "Lykke",
+    "lastName": "Andersson",
+    "gender": "female",
+    "age": 58,
+    "region": "Stockholm",
+    "monthlySalarySEK": 75753
+  },
+  {
+    "firstName": "Luna",
+    "lastName": "Rasmusson",
+    "gender": "female",
+    "age": 39,
+    "region": "Stockholm",
+    "monthlySalarySEK": 40822
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Bergstrand",
+    "gender": "male",
+    "age": 26,
+    "region": "Malmö",
+    "monthlySalarySEK": 32829
+  },
+  {
+    "firstName": "Viggo",
+    "lastName": "Nyström",
+    "gender": "male",
+    "age": 54,
+    "region": "Malmö",
+    "monthlySalarySEK": 51008
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Friberg",
+    "gender": "male",
+    "age": 58,
+    "region": "Göteborg",
+    "monthlySalarySEK": 43255
+  },
+  {
+    "firstName": "Elin",
+    "lastName": "Ståhl",
+    "gender": "female",
+    "age": 19,
+    "region": "Göteborg",
+    "monthlySalarySEK": 33917
+  },
+  {
+    "firstName": "Sigrid",
+    "lastName": "Elofsson",
+    "gender": "female",
+    "age": 43,
+    "region": "Göteborg",
+    "monthlySalarySEK": 36659
+  },
+  {
+    "firstName": "Svante",
+    "lastName": "Olander",
+    "gender": "male",
+    "age": 54,
+    "region": "Malmö",
+    "monthlySalarySEK": 65587
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Birgersson",
+    "gender": "male",
+    "age": 26,
+    "region": "Göteborg",
+    "monthlySalarySEK": 30530
+  },
+  {
+    "firstName": "Ludwig",
+    "lastName": "Ekelund",
+    "gender": "male",
+    "age": 23,
+    "region": "Göteborg",
+    "monthlySalarySEK": 34269
+  },
+  {
+    "firstName": "Lovisa",
+    "lastName": "Dahlin",
+    "gender": "female",
+    "age": 58,
+    "region": "Stockholm",
+    "monthlySalarySEK": 124261
+  },
+  {
+    "firstName": "Bonnie",
+    "lastName": "Ljung",
+    "gender": "female",
+    "age": 20,
+    "region": "Göteborg",
+    "monthlySalarySEK": 36438
+  },
+  {
+    "firstName": "Thea",
+    "lastName": "Edström",
+    "gender": "female",
+    "age": 38,
+    "region": "Malmö",
+    "monthlySalarySEK": 31937
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Sandgren",
+    "gender": "female",
+    "age": 48,
+    "region": "Stockholm",
+    "monthlySalarySEK": 75898
+  },
+  {
+    "firstName": "Molly",
+    "lastName": "Ferm",
+    "gender": "female",
+    "age": 19,
+    "region": "Malmö",
+    "monthlySalarySEK": 18963
+  },
+  {
+    "firstName": "Ingrid",
+    "lastName": "Söderström",
+    "gender": "female",
+    "age": 36,
+    "region": "Stockholm",
+    "monthlySalarySEK": 33419
+  },
+  {
+    "firstName": "Matteo",
+    "lastName": "Bergstrand",
+    "gender": "male",
+    "age": 50,
+    "region": "Stockholm",
+    "monthlySalarySEK": 23271
+  },
+  {
+    "firstName": "Agnes",
+    "lastName": "Hall",
+    "gender": "female",
+    "age": 18,
+    "region": "Göteborg",
+    "monthlySalarySEK": 27958
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Granberg",
+    "gender": "female",
+    "age": 52,
+    "region": "Malmö",
+    "monthlySalarySEK": 49562
+  },
+  {
+    "firstName": "Elsie",
+    "lastName": "Bergström",
+    "gender": "female",
+    "age": 33,
+    "region": "Göteborg",
+    "monthlySalarySEK": 65260
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Öhman",
+    "gender": "female",
+    "age": 22,
+    "region": "Göteborg",
+    "monthlySalarySEK": 26687
+  },
+  {
+    "firstName": "Viola",
+    "lastName": "Ottosson",
+    "gender": "female",
+    "age": 48,
+    "region": "Göteborg",
+    "monthlySalarySEK": 50048
+  },
+  {
+    "firstName": "Sixten",
+    "lastName": "Blomkvist",
+    "gender": "male",
+    "age": 33,
+    "region": "Stockholm",
+    "monthlySalarySEK": 76886
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Sjödin",
+    "gender": "female",
+    "age": 60,
+    "region": "Malmö",
+    "monthlySalarySEK": 66510
+  },
+  {
+    "firstName": "Vide",
+    "lastName": "Blomgren",
+    "gender": "male",
+    "age": 50,
+    "region": "Göteborg",
+    "monthlySalarySEK": 101227
+  },
+  {
+    "firstName": "Millie",
+    "lastName": "Strömberg",
+    "gender": "female",
+    "age": 26,
+    "region": "Stockholm",
+    "monthlySalarySEK": 30417
+  },
+  {
+    "firstName": "Alicia",
+    "lastName": "Sörensen",
+    "gender": "female",
+    "age": 30,
+    "region": "Stockholm",
+    "monthlySalarySEK": 32536
+  },
+  {
+    "firstName": "Lara",
+    "lastName": "Edlund",
+    "gender": "female",
+    "age": 62,
+    "region": "Malmö",
+    "monthlySalarySEK": 58280
+  },
+  {
+    "firstName": "Lovis",
+    "lastName": "Åslund",
+    "gender": "female",
+    "age": 34,
+    "region": "Göteborg",
+    "monthlySalarySEK": 24296
+  },
+  {
+    "firstName": "Eira",
+    "lastName": "Johnson",
+    "gender": "female",
+    "age": 38,
+    "region": "Malmö",
+    "monthlySalarySEK": 43223
+  },
+  {
+    "firstName": "Viggo",
+    "lastName": "Wahlgren",
+    "gender": "male",
+    "age": 43,
+    "region": "Göteborg",
+    "monthlySalarySEK": 56070
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Boman",
+    "gender": "male",
+    "age": 60,
+    "region": "Malmö",
+    "monthlySalarySEK": 83833
+  },
+  {
+    "firstName": "Hilda",
+    "lastName": "Melander",
+    "gender": "female",
+    "age": 42,
+    "region": "Stockholm",
+    "monthlySalarySEK": 42772
+  },
+  {
+    "firstName": "Loui",
+    "lastName": "Hansson",
+    "gender": "male",
+    "age": 32,
+    "region": "Malmö",
+    "monthlySalarySEK": 53288
+  },
+  {
+    "firstName": "Rut",
+    "lastName": "Hult",
+    "gender": "female",
+    "age": 63,
+    "region": "Göteborg",
+    "monthlySalarySEK": 49731
+  },
+  {
+    "firstName": "Liv",
+    "lastName": "Boman",
+    "gender": "female",
+    "age": 42,
+    "region": "Stockholm",
+    "monthlySalarySEK": 57002
+  },
+  {
+    "firstName": "Knut",
+    "lastName": "Folkesson",
+    "gender": "male",
+    "age": 45,
+    "region": "Stockholm",
+    "monthlySalarySEK": 37711
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Karlström",
+    "gender": "male",
+    "age": 29,
+    "region": "Stockholm",
+    "monthlySalarySEK": 49605
+  },
+  {
+    "firstName": "Alvin",
+    "lastName": "Ibrahim",
+    "gender": "male",
+    "age": 54,
+    "region": "Stockholm",
+    "monthlySalarySEK": 104906
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Granlund",
+    "gender": "male",
+    "age": 33,
+    "region": "Göteborg",
+    "monthlySalarySEK": 32321
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Josefsson",
+    "gender": "male",
+    "age": 49,
+    "region": "Göteborg",
+    "monthlySalarySEK": 41719
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Ekstrand",
+    "gender": "female",
+    "age": 37,
+    "region": "Göteborg",
+    "monthlySalarySEK": 67030
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Söderberg",
+    "gender": "male",
+    "age": 60,
+    "region": "Stockholm",
+    "monthlySalarySEK": 111019
+  },
+  {
+    "firstName": "Aron",
+    "lastName": "Nyman",
+    "gender": "male",
+    "age": 29,
+    "region": "Malmö",
+    "monthlySalarySEK": 32853
+  },
+  {
+    "firstName": "Wilma",
+    "lastName": "Wahlberg",
+    "gender": "female",
+    "age": 58,
+    "region": "Stockholm",
+    "monthlySalarySEK": 126194
+  },
+  {
+    "firstName": "Hilda",
+    "lastName": "Göransson",
+    "gender": "female",
+    "age": 57,
+    "region": "Göteborg",
+    "monthlySalarySEK": 58179
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Nyman",
+    "gender": "male",
+    "age": 55,
+    "region": "Malmö",
+    "monthlySalarySEK": 31113
+  },
+  {
+    "firstName": "Knut",
+    "lastName": "Broström",
+    "gender": "male",
+    "age": 64,
+    "region": "Göteborg",
+    "monthlySalarySEK": 90352
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Ljunggren",
+    "gender": "female",
+    "age": 57,
+    "region": "Malmö",
+    "monthlySalarySEK": 87844
+  },
+  {
+    "firstName": "Alina",
+    "lastName": "Lundblad",
+    "gender": "female",
+    "age": 34,
+    "region": "Malmö",
+    "monthlySalarySEK": 64519
+  },
+  {
+    "firstName": "Thea",
+    "lastName": "Hammar",
+    "gender": "female",
+    "age": 41,
+    "region": "Malmö",
+    "monthlySalarySEK": 59943
+  },
+  {
+    "firstName": "Ilse",
+    "lastName": "Åström",
+    "gender": "female",
+    "age": 44,
+    "region": "Göteborg",
+    "monthlySalarySEK": 44105
+  },
+  {
+    "firstName": "Lovisa",
+    "lastName": "Malmgren",
+    "gender": "female",
+    "age": 47,
+    "region": "Malmö",
+    "monthlySalarySEK": 56831
+  },
+  {
+    "firstName": "Alvar",
+    "lastName": "Hult",
+    "gender": "male",
+    "age": 44,
+    "region": "Stockholm",
+    "monthlySalarySEK": 40756
+  },
+  {
+    "firstName": "Levi",
+    "lastName": "Pihl",
+    "gender": "male",
+    "age": 36,
+    "region": "Malmö",
+    "monthlySalarySEK": 63308
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Zetterberg",
+    "gender": "male",
+    "age": 55,
+    "region": "Göteborg",
+    "monthlySalarySEK": 69090
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Hansson",
+    "gender": "male",
+    "age": 20,
+    "region": "Göteborg",
+    "monthlySalarySEK": 35978
+  },
+  {
+    "firstName": "Theo",
+    "lastName": "Sjöstrand",
+    "gender": "male",
+    "age": 58,
+    "region": "Malmö",
+    "monthlySalarySEK": 28453
+  },
+  {
+    "firstName": "Elin",
+    "lastName": "Josefsson",
+    "gender": "female",
+    "age": 53,
+    "region": "Stockholm",
+    "monthlySalarySEK": 100484
+  },
+  {
+    "firstName": "Ture",
+    "lastName": "Tran",
+    "gender": "male",
+    "age": 61,
+    "region": "Göteborg",
+    "monthlySalarySEK": 94752
+  },
+  {
+    "firstName": "Hilda",
+    "lastName": "Niklasson",
+    "gender": "female",
+    "age": 38,
+    "region": "Stockholm",
+    "monthlySalarySEK": 33096
+  },
+  {
+    "firstName": "Alba",
+    "lastName": "Blomgren",
+    "gender": "female",
+    "age": 19,
+    "region": "Stockholm",
+    "monthlySalarySEK": 32837
+  },
+  {
+    "firstName": "Ronja",
+    "lastName": "Svärd",
+    "gender": "female",
+    "age": 56,
+    "region": "Malmö",
+    "monthlySalarySEK": 57935
+  },
+  {
+    "firstName": "Celine",
+    "lastName": "Pedersen",
+    "gender": "female",
+    "age": 50,
+    "region": "Göteborg",
+    "monthlySalarySEK": 77908
+  },
+  {
+    "firstName": "Ebbe",
+    "lastName": "Hussein",
+    "gender": "male",
+    "age": 26,
+    "region": "Malmö",
+    "monthlySalarySEK": 54144
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Lindquist",
+    "gender": "male",
+    "age": 54,
+    "region": "Stockholm",
+    "monthlySalarySEK": 110238
+  },
+  {
+    "firstName": "Freja",
+    "lastName": "Grahn",
+    "gender": "female",
+    "age": 38,
+    "region": "Stockholm",
+    "monthlySalarySEK": 37393
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Mattsson",
+    "gender": "male",
+    "age": 46,
+    "region": "Stockholm",
+    "monthlySalarySEK": 73131
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Bäck",
+    "gender": "male",
+    "age": 64,
+    "region": "Malmö",
+    "monthlySalarySEK": 116589
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Öhman",
+    "gender": "male",
+    "age": 19,
+    "region": "Malmö",
+    "monthlySalarySEK": 39727
+  },
+  {
+    "firstName": "Loke",
+    "lastName": "Davidsson",
+    "gender": "male",
+    "age": 26,
+    "region": "Stockholm",
+    "monthlySalarySEK": 47461
+  },
+  {
+    "firstName": "Louie",
+    "lastName": "Lidén",
+    "gender": "male",
+    "age": 30,
+    "region": "Malmö",
+    "monthlySalarySEK": 39823
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Blomqvist",
+    "gender": "male",
+    "age": 19,
+    "region": "Stockholm",
+    "monthlySalarySEK": 22937
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Ismail",
+    "gender": "female",
+    "age": 60,
+    "region": "Göteborg",
+    "monthlySalarySEK": 97013
+  },
+  {
+    "firstName": "Rut",
+    "lastName": "Wennberg",
+    "gender": "female",
+    "age": 35,
+    "region": "Stockholm",
+    "monthlySalarySEK": 72241
+  },
+  {
+    "firstName": "Wilhelm",
+    "lastName": "Fransson",
+    "gender": "male",
+    "age": 55,
+    "region": "Göteborg",
+    "monthlySalarySEK": 62157
+  },
+  {
+    "firstName": "Edith",
+    "lastName": "Boström",
+    "gender": "female",
+    "age": 19,
+    "region": "Malmö",
+    "monthlySalarySEK": 53158
+  },
+  {
+    "firstName": "Emilia",
+    "lastName": "Jansson",
+    "gender": "female",
+    "age": 19,
+    "region": "Göteborg",
+    "monthlySalarySEK": 14620
+  },
+  {
+    "firstName": "Axel",
+    "lastName": "Lidén",
+    "gender": "male",
+    "age": 48,
+    "region": "Malmö",
+    "monthlySalarySEK": 34824
+  },
+  {
+    "firstName": "Wilma",
+    "lastName": "Emilsson",
+    "gender": "female",
+    "age": 18,
+    "region": "Malmö",
+    "monthlySalarySEK": 30423
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Kling",
+    "gender": "male",
+    "age": 49,
+    "region": "Malmö",
+    "monthlySalarySEK": 66886
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Berglund",
+    "gender": "female",
+    "age": 29,
+    "region": "Malmö",
+    "monthlySalarySEK": 55214
+  },
+  {
+    "firstName": "Hilma",
+    "lastName": "Öhman",
+    "gender": "female",
+    "age": 24,
+    "region": "Stockholm",
+    "monthlySalarySEK": 35928
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Norén",
+    "gender": "male",
+    "age": 38,
+    "region": "Malmö",
+    "monthlySalarySEK": 50899
+  },
+  {
+    "firstName": "Olle",
+    "lastName": "Ljungberg",
+    "gender": "male",
+    "age": 59,
+    "region": "Malmö",
+    "monthlySalarySEK": 67764
+  },
+  {
+    "firstName": "Agnes",
+    "lastName": "Almgren",
+    "gender": "female",
+    "age": 57,
+    "region": "Malmö",
+    "monthlySalarySEK": 86037
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Olausson",
+    "gender": "male",
+    "age": 61,
+    "region": "Malmö",
+    "monthlySalarySEK": 33095
+  },
+  {
+    "firstName": "Ilse",
+    "lastName": "Norrman",
+    "gender": "female",
+    "age": 28,
+    "region": "Malmö",
+    "monthlySalarySEK": 54415
+  },
+  {
+    "firstName": "Vide",
+    "lastName": "Andersson",
+    "gender": "male",
+    "age": 34,
+    "region": "Göteborg",
+    "monthlySalarySEK": 38303
+  },
+  {
+    "firstName": "Hilma",
+    "lastName": "Dahlén",
+    "gender": "female",
+    "age": 55,
+    "region": "Stockholm",
+    "monthlySalarySEK": 74306
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Nyman",
+    "gender": "male",
+    "age": 48,
+    "region": "Malmö",
+    "monthlySalarySEK": 96125
+  },
+  {
+    "firstName": "Nellie",
+    "lastName": "Persson",
+    "gender": "female",
+    "age": 37,
+    "region": "Stockholm",
+    "monthlySalarySEK": 62702
+  },
+  {
+    "firstName": "Leon",
+    "lastName": "Augustsson",
+    "gender": "male",
+    "age": 35,
+    "region": "Stockholm",
+    "monthlySalarySEK": 48506
+  },
+  {
+    "firstName": "Maximilian",
+    "lastName": "Olander",
+    "gender": "male",
+    "age": 63,
+    "region": "Göteborg",
+    "monthlySalarySEK": 87281
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Ljung",
+    "gender": "male",
+    "age": 43,
+    "region": "Göteborg",
+    "monthlySalarySEK": 43509
+  },
+  {
+    "firstName": "Adrian",
+    "lastName": "Grahn",
+    "gender": "male",
+    "age": 56,
+    "region": "Stockholm",
+    "monthlySalarySEK": 67741
+  },
+  {
+    "firstName": "Folke",
+    "lastName": "Nordlund",
+    "gender": "male",
+    "age": 39,
+    "region": "Malmö",
+    "monthlySalarySEK": 35727
+  },
+  {
+    "firstName": "Filip",
+    "lastName": "Wall",
+    "gender": "male",
+    "age": 42,
+    "region": "Göteborg",
+    "monthlySalarySEK": 52742
+  },
+  {
+    "firstName": "Algot",
+    "lastName": "Dahlin",
+    "gender": "male",
+    "age": 37,
+    "region": "Stockholm",
+    "monthlySalarySEK": 67820
+  },
+  {
+    "firstName": "Tyra",
+    "lastName": "Lundahl",
+    "gender": "female",
+    "age": 40,
+    "region": "Göteborg",
+    "monthlySalarySEK": 42833
+  },
+  {
+    "firstName": "Dante",
+    "lastName": "Åkesson",
+    "gender": "male",
+    "age": 60,
+    "region": "Stockholm",
+    "monthlySalarySEK": 73057
+  },
+  {
+    "firstName": "Agnes",
+    "lastName": "Gren",
+    "gender": "female",
+    "age": 45,
+    "region": "Malmö",
+    "monthlySalarySEK": 37051
+  },
+  {
+    "firstName": "Hilma",
+    "lastName": "Lantz",
+    "gender": "female",
+    "age": 27,
+    "region": "Malmö",
+    "monthlySalarySEK": 27701
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Wallin",
+    "gender": "male",
+    "age": 58,
+    "region": "Stockholm",
+    "monthlySalarySEK": 82215
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Edström",
+    "gender": "male",
+    "age": 41,
+    "region": "Göteborg",
+    "monthlySalarySEK": 39905
+  },
+  {
+    "firstName": "Arvid",
+    "lastName": "Sjölund",
+    "gender": "male",
+    "age": 61,
+    "region": "Malmö",
+    "monthlySalarySEK": 98999
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Gashi",
+    "gender": "male",
+    "age": 28,
+    "region": "Stockholm",
+    "monthlySalarySEK": 23802
+  },
+  {
+    "firstName": "Agnes",
+    "lastName": "Sandberg",
+    "gender": "female",
+    "age": 44,
+    "region": "Göteborg",
+    "monthlySalarySEK": 77843
+  },
+  {
+    "firstName": "Elise",
+    "lastName": "Simonsson",
+    "gender": "female",
+    "age": 23,
+    "region": "Göteborg",
+    "monthlySalarySEK": 52293
+  },
+  {
+    "firstName": "Olle",
+    "lastName": "Gullberg",
+    "gender": "male",
+    "age": 49,
+    "region": "Malmö",
+    "monthlySalarySEK": 98486
+  },
+  {
+    "firstName": "Sally",
+    "lastName": "Smith",
+    "gender": "female",
+    "age": 32,
+    "region": "Stockholm",
+    "monthlySalarySEK": 60683
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Norrman",
+    "gender": "male",
+    "age": 22,
+    "region": "Göteborg",
+    "monthlySalarySEK": 27313
+  },
+  {
+    "firstName": "Ludvig",
+    "lastName": "Ekstrand",
+    "gender": "male",
+    "age": 49,
+    "region": "Göteborg",
+    "monthlySalarySEK": 33147
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Gustafsson",
+    "gender": "male",
+    "age": 53,
+    "region": "Stockholm",
+    "monthlySalarySEK": 55592
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Hasan",
+    "gender": "male",
+    "age": 54,
+    "region": "Göteborg",
+    "monthlySalarySEK": 88492
+  },
+  {
+    "firstName": "Juni",
+    "lastName": "Blixt",
+    "gender": "female",
+    "age": 34,
+    "region": "Malmö",
+    "monthlySalarySEK": 29801
+  },
+  {
+    "firstName": "Melina",
+    "lastName": "Engman",
+    "gender": "female",
+    "age": 55,
+    "region": "Malmö",
+    "monthlySalarySEK": 60767
+  },
+  {
+    "firstName": "Algot",
+    "lastName": "Bergman",
+    "gender": "male",
+    "age": 43,
+    "region": "Göteborg",
+    "monthlySalarySEK": 41053
+  },
+  {
+    "firstName": "Elise",
+    "lastName": "Lindholm",
+    "gender": "female",
+    "age": 20,
+    "region": "Malmö",
+    "monthlySalarySEK": 28672
+  },
+  {
+    "firstName": "Melker",
+    "lastName": "Löfgren",
+    "gender": "male",
+    "age": 31,
+    "region": "Göteborg",
+    "monthlySalarySEK": 64068
+  },
+  {
+    "firstName": "Elis",
+    "lastName": "Gashi",
+    "gender": "male",
+    "age": 31,
+    "region": "Malmö",
+    "monthlySalarySEK": 43802
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Mårtensson",
+    "gender": "female",
+    "age": 37,
+    "region": "Göteborg",
+    "monthlySalarySEK": 63939
+  },
+  {
+    "firstName": "Colin",
+    "lastName": "Ögren",
+    "gender": "male",
+    "age": 53,
+    "region": "Stockholm",
+    "monthlySalarySEK": 58704
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Frisk",
+    "gender": "male",
+    "age": 40,
+    "region": "Göteborg",
+    "monthlySalarySEK": 84698
+  },
+  {
+    "firstName": "Sigge",
+    "lastName": "Ohlsson",
+    "gender": "male",
+    "age": 49,
+    "region": "Göteborg",
+    "monthlySalarySEK": 100733
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Sundin",
+    "gender": "female",
+    "age": 27,
+    "region": "Malmö",
+    "monthlySalarySEK": 29745
+  },
+  {
+    "firstName": "Wilma",
+    "lastName": "Hedström",
+    "gender": "female",
+    "age": 32,
+    "region": "Stockholm",
+    "monthlySalarySEK": 26152
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Brännström",
+    "gender": "male",
+    "age": 24,
+    "region": "Malmö",
+    "monthlySalarySEK": 38529
+  },
+  {
+    "firstName": "Viggo",
+    "lastName": "Bertilsson",
+    "gender": "male",
+    "age": 35,
+    "region": "Göteborg",
+    "monthlySalarySEK": 53824
+  },
+  {
+    "firstName": "Theodor",
+    "lastName": "Almqvist",
+    "gender": "male",
+    "age": 56,
+    "region": "Stockholm",
+    "monthlySalarySEK": 69413
+  },
+  {
+    "firstName": "Dante",
+    "lastName": "Blomkvist",
+    "gender": "male",
+    "age": 49,
+    "region": "Göteborg",
+    "monthlySalarySEK": 51052
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Hjort",
+    "gender": "male",
+    "age": 46,
+    "region": "Göteborg",
+    "monthlySalarySEK": 72693
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Kling",
+    "gender": "male",
+    "age": 32,
+    "region": "Malmö",
+    "monthlySalarySEK": 34564
+  },
+  {
+    "firstName": "Livia",
+    "lastName": "Hall",
+    "gender": "female",
+    "age": 23,
+    "region": "Malmö",
+    "monthlySalarySEK": 44681
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Roth",
+    "gender": "female",
+    "age": 37,
+    "region": "Malmö",
+    "monthlySalarySEK": 61413
+  },
+  {
+    "firstName": "Liv",
+    "lastName": "Alfredsson",
+    "gender": "female",
+    "age": 42,
+    "region": "Malmö",
+    "monthlySalarySEK": 47741
+  },
+  {
+    "firstName": "Lykke",
+    "lastName": "Lindmark",
+    "gender": "female",
+    "age": 30,
+    "region": "Göteborg",
+    "monthlySalarySEK": 29878
+  },
+  {
+    "firstName": "Walter",
+    "lastName": "Westman",
+    "gender": "male",
+    "age": 27,
+    "region": "Stockholm",
+    "monthlySalarySEK": 31514
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Salomonsson",
+    "gender": "male",
+    "age": 42,
+    "region": "Göteborg",
+    "monthlySalarySEK": 64361
+  },
+  {
+    "firstName": "Casper",
+    "lastName": "Almqvist",
+    "gender": "male",
+    "age": 31,
+    "region": "Stockholm",
+    "monthlySalarySEK": 23856
+  },
+  {
+    "firstName": "Wilma",
+    "lastName": "Lindgren",
+    "gender": "female",
+    "age": 35,
+    "region": "Stockholm",
+    "monthlySalarySEK": 31604
+  },
+  {
+    "firstName": "Elvira",
+    "lastName": "Josefsson",
+    "gender": "female",
+    "age": 54,
+    "region": "Malmö",
+    "monthlySalarySEK": 82697
+  },
+  {
+    "firstName": "Axel",
+    "lastName": "Åslund",
+    "gender": "male",
+    "age": 53,
+    "region": "Malmö",
+    "monthlySalarySEK": 38304
+  },
+  {
+    "firstName": "Alicia",
+    "lastName": "Lindén",
+    "gender": "female",
+    "age": 41,
+    "region": "Göteborg",
+    "monthlySalarySEK": 71675
+  },
+  {
+    "firstName": "Ilse",
+    "lastName": "Lindqvist",
+    "gender": "female",
+    "age": 56,
+    "region": "Göteborg",
+    "monthlySalarySEK": 61057
+  },
+  {
+    "firstName": "Walter",
+    "lastName": "Nylén",
+    "gender": "male",
+    "age": 53,
+    "region": "Göteborg",
+    "monthlySalarySEK": 73331
+  },
+  {
+    "firstName": "Selma",
+    "lastName": "Antonsson",
+    "gender": "female",
+    "age": 42,
+    "region": "Göteborg",
+    "monthlySalarySEK": 79106
+  },
+  {
+    "firstName": "Bonnie",
+    "lastName": "Lantz",
+    "gender": "female",
+    "age": 48,
+    "region": "Göteborg",
+    "monthlySalarySEK": 91375
+  },
+  {
+    "firstName": "Noel",
+    "lastName": "Ågren",
+    "gender": "male",
+    "age": 44,
+    "region": "Göteborg",
+    "monthlySalarySEK": 51984
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Rosenqvist",
+    "gender": "male",
+    "age": 61,
+    "region": "Stockholm",
+    "monthlySalarySEK": 147553
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Berntsson",
+    "gender": "male",
+    "age": 41,
+    "region": "Stockholm",
+    "monthlySalarySEK": 96213
+  },
+  {
+    "firstName": "Liv",
+    "lastName": "Lundberg",
+    "gender": "female",
+    "age": 34,
+    "region": "Malmö",
+    "monthlySalarySEK": 33204
+  },
+  {
+    "firstName": "Oskar",
+    "lastName": "Ekstrand",
+    "gender": "male",
+    "age": 48,
+    "region": "Stockholm",
+    "monthlySalarySEK": 102754
+  },
+  {
+    "firstName": "Lova",
+    "lastName": "Björklund",
+    "gender": "female",
+    "age": 50,
+    "region": "Stockholm",
+    "monthlySalarySEK": 43463
+  },
+  {
+    "firstName": "Sigrid",
+    "lastName": "Lindquist",
+    "gender": "female",
+    "age": 19,
+    "region": "Malmö",
+    "monthlySalarySEK": 34858
+  },
+  {
+    "firstName": "Aurora",
+    "lastName": "Ragnarsson",
+    "gender": "female",
+    "age": 28,
+    "region": "Malmö",
+    "monthlySalarySEK": 29106
+  },
+  {
+    "firstName": "Matteo",
+    "lastName": "Lundberg",
+    "gender": "male",
+    "age": 40,
+    "region": "Malmö",
+    "monthlySalarySEK": 76098
+  },
+  {
+    "firstName": "Edvin",
+    "lastName": "Erlandsson",
+    "gender": "male",
+    "age": 51,
+    "region": "Malmö",
+    "monthlySalarySEK": 42477
+  },
+  {
+    "firstName": "Elin",
+    "lastName": "Lundquist",
+    "gender": "female",
+    "age": 48,
+    "region": "Malmö",
+    "monthlySalarySEK": 37161
+  },
+  {
+    "firstName": "August",
+    "lastName": "Ekman",
+    "gender": "male",
+    "age": 60,
+    "region": "Malmö",
+    "monthlySalarySEK": 82396
+  },
+  {
+    "firstName": "Valter",
+    "lastName": "Engman",
+    "gender": "male",
+    "age": 35,
+    "region": "Stockholm",
+    "monthlySalarySEK": 38484
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Norberg",
+    "gender": "male",
+    "age": 44,
+    "region": "Malmö",
+    "monthlySalarySEK": 56684
+  },
+  {
+    "firstName": "Ludwig",
+    "lastName": "Östling",
+    "gender": "male",
+    "age": 37,
+    "region": "Göteborg",
+    "monthlySalarySEK": 44228
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Linde",
+    "gender": "male",
+    "age": 23,
+    "region": "Göteborg",
+    "monthlySalarySEK": 27278
+  },
+  {
+    "firstName": "Melvin",
+    "lastName": "Nilsson",
+    "gender": "male",
+    "age": 22,
+    "region": "Stockholm",
+    "monthlySalarySEK": 44666
+  },
+  {
+    "firstName": "Alvar",
+    "lastName": "Jafari",
+    "gender": "male",
+    "age": 26,
+    "region": "Stockholm",
+    "monthlySalarySEK": 39007
+  },
+  {
+    "firstName": "Julian",
+    "lastName": "Byström",
+    "gender": "male",
+    "age": 50,
+    "region": "Malmö",
+    "monthlySalarySEK": 84040
+  },
+  {
+    "firstName": "Meja",
+    "lastName": "Norman",
+    "gender": "female",
+    "age": 19,
+    "region": "Malmö",
+    "monthlySalarySEK": 17550
+  },
+  {
+    "firstName": "Ilse",
+    "lastName": "Hedin",
+    "gender": "female",
+    "age": 46,
+    "region": "Göteborg",
+    "monthlySalarySEK": 46348
+  },
+  {
+    "firstName": "Hedda",
+    "lastName": "Haraldsson",
+    "gender": "female",
+    "age": 19,
+    "region": "Göteborg",
+    "monthlySalarySEK": 35090
+  },
+  {
+    "firstName": "Lovisa",
+    "lastName": "Berntsson",
+    "gender": "female",
+    "age": 27,
+    "region": "Göteborg",
+    "monthlySalarySEK": 34067
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Jafari",
+    "gender": "female",
+    "age": 60,
+    "region": "Malmö",
+    "monthlySalarySEK": 66348
+  },
+  {
+    "firstName": "Freya",
+    "lastName": "Svahn",
+    "gender": "female",
+    "age": 54,
+    "region": "Malmö",
+    "monthlySalarySEK": 73445
+  },
+  {
+    "firstName": "Mira",
+    "lastName": "Löf",
+    "gender": "female",
+    "age": 51,
+    "region": "Göteborg",
+    "monthlySalarySEK": 45612
+  },
+  {
+    "firstName": "Majken",
+    "lastName": "Söderqvist",
+    "gender": "female",
+    "age": 48,
+    "region": "Göteborg",
+    "monthlySalarySEK": 44817
+  },
+  {
+    "firstName": "Dante",
+    "lastName": "Torstensson",
+    "gender": "male",
+    "age": 22,
+    "region": "Stockholm",
+    "monthlySalarySEK": 69386
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Johansson",
+    "gender": "male",
+    "age": 33,
+    "region": "Stockholm",
+    "monthlySalarySEK": 58316
+  },
+  {
+    "firstName": "Nova",
+    "lastName": "Sundberg",
+    "gender": "female",
+    "age": 28,
+    "region": "Malmö",
+    "monthlySalarySEK": 40822
+  },
+  {
+    "firstName": "Mira",
+    "lastName": "Ekström",
+    "gender": "female",
+    "age": 18,
+    "region": "Göteborg",
+    "monthlySalarySEK": 14233
+  },
+  {
+    "firstName": "Vide",
+    "lastName": "Granberg",
+    "gender": "male",
+    "age": 24,
+    "region": "Stockholm",
+    "monthlySalarySEK": 56390
+  },
+  {
+    "firstName": "Elise",
+    "lastName": "Strid",
+    "gender": "female",
+    "age": 59,
+    "region": "Göteborg",
+    "monthlySalarySEK": 34547
+  },
+  {
+    "firstName": "Thea",
+    "lastName": "Skoog",
+    "gender": "female",
+    "age": 36,
+    "region": "Malmö",
+    "monthlySalarySEK": 65251
+  },
+  {
+    "firstName": "Aron",
+    "lastName": "Bylund",
+    "gender": "male",
+    "age": 63,
+    "region": "Malmö",
+    "monthlySalarySEK": 77121
+  },
+  {
+    "firstName": "Nova",
+    "lastName": "Persson",
+    "gender": "female",
+    "age": 32,
+    "region": "Stockholm",
+    "monthlySalarySEK": 39733
+  },
+  {
+    "firstName": "Alina",
+    "lastName": "Hult",
+    "gender": "female",
+    "age": 63,
+    "region": "Göteborg",
+    "monthlySalarySEK": 120472
+  },
+  {
+    "firstName": "Olle",
+    "lastName": "Svedberg",
+    "gender": "male",
+    "age": 61,
+    "region": "Göteborg",
+    "monthlySalarySEK": 80867
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Ahmad",
+    "gender": "male",
+    "age": 62,
+    "region": "Stockholm",
+    "monthlySalarySEK": 148742
+  },
+  {
+    "firstName": "Nils",
+    "lastName": "Zetterberg",
+    "gender": "male",
+    "age": 56,
+    "region": "Malmö",
+    "monthlySalarySEK": 71234
+  },
+  {
+    "firstName": "Ingrid",
+    "lastName": "Tran",
+    "gender": "female",
+    "age": 64,
+    "region": "Stockholm",
+    "monthlySalarySEK": 64601
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Thunberg",
+    "gender": "female",
+    "age": 49,
+    "region": "Göteborg",
+    "monthlySalarySEK": 66003
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Öberg",
+    "gender": "male",
+    "age": 38,
+    "region": "Malmö",
+    "monthlySalarySEK": 70838
+  },
+  {
+    "firstName": "Lara",
+    "lastName": "Rehn",
+    "gender": "female",
+    "age": 49,
+    "region": "Malmö",
+    "monthlySalarySEK": 76577
+  },
+  {
+    "firstName": "Matheo",
+    "lastName": "Robertsson",
+    "gender": "male",
+    "age": 60,
+    "region": "Malmö",
+    "monthlySalarySEK": 52857
+  },
+  {
+    "firstName": "Astrid",
+    "lastName": "Ali",
+    "gender": "female",
+    "age": 42,
+    "region": "Stockholm",
+    "monthlySalarySEK": 53961
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Jansson",
+    "gender": "male",
+    "age": 32,
+    "region": "Stockholm",
+    "monthlySalarySEK": 74320
+  },
+  {
+    "firstName": "Olle",
+    "lastName": "Adolfsson",
+    "gender": "male",
+    "age": 18,
+    "region": "Malmö",
+    "monthlySalarySEK": 35881
+  },
+  {
+    "firstName": "Tuva",
+    "lastName": "Ericson",
+    "gender": "female",
+    "age": 29,
+    "region": "Göteborg",
+    "monthlySalarySEK": 52402
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Lundgren",
+    "gender": "female",
+    "age": 31,
+    "region": "Göteborg",
+    "monthlySalarySEK": 21293
+  },
+  {
+    "firstName": "Otis",
+    "lastName": "Danielsson",
+    "gender": "male",
+    "age": 60,
+    "region": "Göteborg",
+    "monthlySalarySEK": 105553
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Strömberg",
+    "gender": "male",
+    "age": 53,
+    "region": "Göteborg",
+    "monthlySalarySEK": 77673
+  },
+  {
+    "firstName": "Lukas",
+    "lastName": "Dahlin",
+    "gender": "male",
+    "age": 55,
+    "region": "Stockholm",
+    "monthlySalarySEK": 47433
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Berg",
+    "gender": "male",
+    "age": 26,
+    "region": "Stockholm",
+    "monthlySalarySEK": 36564
+  },
+  {
+    "firstName": "Thea",
+    "lastName": "Hanna",
+    "gender": "female",
+    "age": 24,
+    "region": "Göteborg",
+    "monthlySalarySEK": 29778
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Alm",
+    "gender": "male",
+    "age": 27,
+    "region": "Malmö",
+    "monthlySalarySEK": 30704
+  },
+  {
+    "firstName": "Kian",
+    "lastName": "Nygren",
+    "gender": "male",
+    "age": 31,
+    "region": "Göteborg",
+    "monthlySalarySEK": 46158
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Mattsson",
+    "gender": "female",
+    "age": 59,
+    "region": "Göteborg",
+    "monthlySalarySEK": 67484
+  },
+  {
+    "firstName": "Eira",
+    "lastName": "Thunberg",
+    "gender": "female",
+    "age": 52,
+    "region": "Malmö",
+    "monthlySalarySEK": 81863
+  },
+  {
+    "firstName": "William",
+    "lastName": "Högberg",
+    "gender": "male",
+    "age": 19,
+    "region": "Göteborg",
+    "monthlySalarySEK": 14740
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Molin",
+    "gender": "male",
+    "age": 20,
+    "region": "Göteborg",
+    "monthlySalarySEK": 37329
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Hultgren",
+    "gender": "male",
+    "age": 64,
+    "region": "Stockholm",
+    "monthlySalarySEK": 117606
+  },
+  {
+    "firstName": "Juni",
+    "lastName": "Håkansson",
+    "gender": "female",
+    "age": 59,
+    "region": "Göteborg",
+    "monthlySalarySEK": 57721
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Vikström",
+    "gender": "female",
+    "age": 30,
+    "region": "Göteborg",
+    "monthlySalarySEK": 24729
+  },
+  {
+    "firstName": "Stella",
+    "lastName": "Johansson",
+    "gender": "female",
+    "age": 31,
+    "region": "Stockholm",
+    "monthlySalarySEK": 41971
+  },
+  {
+    "firstName": "Matheo",
+    "lastName": "Wennberg",
+    "gender": "male",
+    "age": 44,
+    "region": "Malmö",
+    "monthlySalarySEK": 59803
+  },
+  {
+    "firstName": "Celine",
+    "lastName": "Öberg",
+    "gender": "female",
+    "age": 56,
+    "region": "Malmö",
+    "monthlySalarySEK": 38626
+  },
+  {
+    "firstName": "Lara",
+    "lastName": "Emilsson",
+    "gender": "female",
+    "age": 28,
+    "region": "Stockholm",
+    "monthlySalarySEK": 39496
+  },
+  {
+    "firstName": "Louie",
+    "lastName": "Klasson",
+    "gender": "male",
+    "age": 35,
+    "region": "Göteborg",
+    "monthlySalarySEK": 56980
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Hall",
+    "gender": "male",
+    "age": 62,
+    "region": "Malmö",
+    "monthlySalarySEK": 78950
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Karlström",
+    "gender": "female",
+    "age": 51,
+    "region": "Göteborg",
+    "monthlySalarySEK": 67531
+  },
+  {
+    "firstName": "Leon",
+    "lastName": "Ljunggren",
+    "gender": "male",
+    "age": 22,
+    "region": "Göteborg",
+    "monthlySalarySEK": 29759
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Boström",
+    "gender": "female",
+    "age": 33,
+    "region": "Stockholm",
+    "monthlySalarySEK": 29314
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Åkerblom",
+    "gender": "male",
+    "age": 38,
+    "region": "Malmö",
+    "monthlySalarySEK": 54918
+  },
+  {
+    "firstName": "Leah",
+    "lastName": "Lundkvist",
+    "gender": "female",
+    "age": 20,
+    "region": "Stockholm",
+    "monthlySalarySEK": 43189
+  },
+  {
+    "firstName": "Elise",
+    "lastName": "Östman",
+    "gender": "female",
+    "age": 41,
+    "region": "Malmö",
+    "monthlySalarySEK": 32380
+  },
+  {
+    "firstName": "Vide",
+    "lastName": "Hägglund",
+    "gender": "male",
+    "age": 34,
+    "region": "Göteborg",
+    "monthlySalarySEK": 30855
+  },
+  {
+    "firstName": "Lovis",
+    "lastName": "Boman",
+    "gender": "female",
+    "age": 34,
+    "region": "Malmö",
+    "monthlySalarySEK": 27034
+  },
+  {
+    "firstName": "Dante",
+    "lastName": "Björkman",
+    "gender": "male",
+    "age": 22,
+    "region": "Malmö",
+    "monthlySalarySEK": 28092
+  },
+  {
+    "firstName": "Ivar",
+    "lastName": "Hedman",
+    "gender": "male",
+    "age": 28,
+    "region": "Stockholm",
+    "monthlySalarySEK": 40646
+  },
+  {
+    "firstName": "Olle",
+    "lastName": "Emilsson",
+    "gender": "male",
+    "age": 63,
+    "region": "Göteborg",
+    "monthlySalarySEK": 42873
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Selin",
+    "gender": "male",
+    "age": 31,
+    "region": "Malmö",
+    "monthlySalarySEK": 53466
+  },
+  {
+    "firstName": "Aron",
+    "lastName": "Schmidt",
+    "gender": "male",
+    "age": 42,
+    "region": "Malmö",
+    "monthlySalarySEK": 69016
+  },
+  {
+    "firstName": "Melker",
+    "lastName": "Hägglund",
+    "gender": "male",
+    "age": 23,
+    "region": "Malmö",
+    "monthlySalarySEK": 47868
+  },
+  {
+    "firstName": "Nellie",
+    "lastName": "Björkman",
+    "gender": "female",
+    "age": 32,
+    "region": "Stockholm",
+    "monthlySalarySEK": 35170
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Johnsson",
+    "gender": "male",
+    "age": 21,
+    "region": "Göteborg",
+    "monthlySalarySEK": 29850
+  },
+  {
+    "firstName": "Juni",
+    "lastName": "Häggström",
+    "gender": "female",
+    "age": 43,
+    "region": "Göteborg",
+    "monthlySalarySEK": 83077
+  },
+  {
+    "firstName": "Viola",
+    "lastName": "Saleh",
+    "gender": "female",
+    "age": 29,
+    "region": "Göteborg",
+    "monthlySalarySEK": 45229
+  },
+  {
+    "firstName": "Hilda",
+    "lastName": "Steen",
+    "gender": "female",
+    "age": 57,
+    "region": "Malmö",
+    "monthlySalarySEK": 42161
+  },
+  {
+    "firstName": "Noel",
+    "lastName": "Wahlberg",
+    "gender": "male",
+    "age": 41,
+    "region": "Malmö",
+    "monthlySalarySEK": 44796
+  },
+  {
+    "firstName": "Meja",
+    "lastName": "Olander",
+    "gender": "female",
+    "age": 55,
+    "region": "Stockholm",
+    "monthlySalarySEK": 88336
+  },
+  {
+    "firstName": "Levi",
+    "lastName": "Singh",
+    "gender": "male",
+    "age": 43,
+    "region": "Göteborg",
+    "monthlySalarySEK": 69976
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Westlund",
+    "gender": "female",
+    "age": 59,
+    "region": "Malmö",
+    "monthlySalarySEK": 75923
+  },
+  {
+    "firstName": "Freja",
+    "lastName": "Boström",
+    "gender": "female",
+    "age": 44,
+    "region": "Stockholm",
+    "monthlySalarySEK": 50434
+  },
+  {
+    "firstName": "William",
+    "lastName": "Åberg",
+    "gender": "male",
+    "age": 53,
+    "region": "Stockholm",
+    "monthlySalarySEK": 54910
+  },
+  {
+    "firstName": "Ture",
+    "lastName": "Granberg",
+    "gender": "male",
+    "age": 35,
+    "region": "Göteborg",
+    "monthlySalarySEK": 71855
+  },
+  {
+    "firstName": "Sigge",
+    "lastName": "Brolin",
+    "gender": "male",
+    "age": 52,
+    "region": "Malmö",
+    "monthlySalarySEK": 42277
+  },
+  {
+    "firstName": "Aron",
+    "lastName": "Wang",
+    "gender": "male",
+    "age": 25,
+    "region": "Stockholm",
+    "monthlySalarySEK": 27176
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Vilhelmsson",
+    "gender": "male",
+    "age": 41,
+    "region": "Malmö",
+    "monthlySalarySEK": 40205
+  },
+  {
+    "firstName": "Milo",
+    "lastName": "Axelsson",
+    "gender": "male",
+    "age": 38,
+    "region": "Stockholm",
+    "monthlySalarySEK": 47284
+  },
+  {
+    "firstName": "Björn",
+    "lastName": "Lind",
+    "gender": "male",
+    "age": 18,
+    "region": "Göteborg",
+    "monthlySalarySEK": 32552
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Brolin",
+    "gender": "male",
+    "age": 33,
+    "region": "Göteborg",
+    "monthlySalarySEK": 45049
+  },
+  {
+    "firstName": "Amir",
+    "lastName": "Wahlström",
+    "gender": "male",
+    "age": 27,
+    "region": "Göteborg",
+    "monthlySalarySEK": 22514
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Svedberg",
+    "gender": "male",
+    "age": 24,
+    "region": "Göteborg",
+    "monthlySalarySEK": 34497
+  },
+  {
+    "firstName": "Leon",
+    "lastName": "Hultman",
+    "gender": "male",
+    "age": 25,
+    "region": "Göteborg",
+    "monthlySalarySEK": 44825
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Lövgren",
+    "gender": "female",
+    "age": 56,
+    "region": "Göteborg",
+    "monthlySalarySEK": 97194
+  },
+  {
+    "firstName": "William",
+    "lastName": "Eklöf",
+    "gender": "male",
+    "age": 41,
+    "region": "Stockholm",
+    "monthlySalarySEK": 73103
+  },
+  {
+    "firstName": "William",
+    "lastName": "Lindström",
+    "gender": "male",
+    "age": 42,
+    "region": "Göteborg",
+    "monthlySalarySEK": 93001
+  },
+  {
+    "firstName": "Elsie",
+    "lastName": "Bengtsson",
+    "gender": "female",
+    "age": 29,
+    "region": "Malmö",
+    "monthlySalarySEK": 25735
+  },
+  {
+    "firstName": "Freja",
+    "lastName": "Ekelund",
+    "gender": "female",
+    "age": 50,
+    "region": "Stockholm",
+    "monthlySalarySEK": 105757
+  },
+  {
+    "firstName": "Ture",
+    "lastName": "Sköld",
+    "gender": "male",
+    "age": 43,
+    "region": "Stockholm",
+    "monthlySalarySEK": 60552
+  },
+  {
+    "firstName": "Walter",
+    "lastName": "Öberg",
+    "gender": "male",
+    "age": 26,
+    "region": "Stockholm",
+    "monthlySalarySEK": 23829
+  },
+  {
+    "firstName": "Love",
+    "lastName": "Haraldsson",
+    "gender": "male",
+    "age": 27,
+    "region": "Malmö",
+    "monthlySalarySEK": 59097
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Edberg",
+    "gender": "female",
+    "age": 55,
+    "region": "Malmö",
+    "monthlySalarySEK": 66797
+  },
+  {
+    "firstName": "Loke",
+    "lastName": "Wilhelmsson",
+    "gender": "male",
+    "age": 58,
+    "region": "Göteborg",
+    "monthlySalarySEK": 68381
+  },
+  {
+    "firstName": "Ayla",
+    "lastName": "Nylén",
+    "gender": "female",
+    "age": 61,
+    "region": "Göteborg",
+    "monthlySalarySEK": 53507
+  },
+  {
+    "firstName": "Emilia",
+    "lastName": "Paulsson",
+    "gender": "female",
+    "age": 34,
+    "region": "Stockholm",
+    "monthlySalarySEK": 42816
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Strandberg",
+    "gender": "female",
+    "age": 53,
+    "region": "Göteborg",
+    "monthlySalarySEK": 38955
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Karlström",
+    "gender": "male",
+    "age": 34,
+    "region": "Stockholm",
+    "monthlySalarySEK": 55118
+  },
+  {
+    "firstName": "Sigge",
+    "lastName": "Ekström",
+    "gender": "male",
+    "age": 44,
+    "region": "Göteborg",
+    "monthlySalarySEK": 55955
+  },
+  {
+    "firstName": "Levi",
+    "lastName": "Bylund",
+    "gender": "male",
+    "age": 55,
+    "region": "Malmö",
+    "monthlySalarySEK": 63696
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Magnusson",
+    "gender": "female",
+    "age": 39,
+    "region": "Göteborg",
+    "monthlySalarySEK": 31141
+  },
+  {
+    "firstName": "Aurora",
+    "lastName": "Hosseini",
+    "gender": "female",
+    "age": 61,
+    "region": "Göteborg",
+    "monthlySalarySEK": 72698
+  },
+  {
+    "firstName": "Adrian",
+    "lastName": "Schmidt",
+    "gender": "male",
+    "age": 59,
+    "region": "Malmö",
+    "monthlySalarySEK": 66544
+  },
+  {
+    "firstName": "Love",
+    "lastName": "Hult",
+    "gender": "male",
+    "age": 58,
+    "region": "Malmö",
+    "monthlySalarySEK": 112311
+  },
+  {
+    "firstName": "Elsie",
+    "lastName": "Lundin",
+    "gender": "female",
+    "age": 27,
+    "region": "Stockholm",
+    "monthlySalarySEK": 47615
+  },
+  {
+    "firstName": "Hedvig",
+    "lastName": "Lindskog",
+    "gender": "female",
+    "age": 25,
+    "region": "Stockholm",
+    "monthlySalarySEK": 24696
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Axelsson",
+    "gender": "female",
+    "age": 59,
+    "region": "Göteborg",
+    "monthlySalarySEK": 48232
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Lindgren",
+    "gender": "female",
+    "age": 32,
+    "region": "Malmö",
+    "monthlySalarySEK": 52492
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Broström",
+    "gender": "female",
+    "age": 59,
+    "region": "Malmö",
+    "monthlySalarySEK": 114810
+  },
+  {
+    "firstName": "Hjalmar",
+    "lastName": "Juhlin",
+    "gender": "male",
+    "age": 54,
+    "region": "Malmö",
+    "monthlySalarySEK": 46543
+  },
+  {
+    "firstName": "Alvar",
+    "lastName": "Smith",
+    "gender": "male",
+    "age": 57,
+    "region": "Stockholm",
+    "monthlySalarySEK": 107741
+  },
+  {
+    "firstName": "Elise",
+    "lastName": "Ahlin",
+    "gender": "female",
+    "age": 43,
+    "region": "Stockholm",
+    "monthlySalarySEK": 86858
+  },
+  {
+    "firstName": "Idun",
+    "lastName": "Nygren",
+    "gender": "female",
+    "age": 51,
+    "region": "Malmö",
+    "monthlySalarySEK": 35956
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Blomberg",
+    "gender": "male",
+    "age": 61,
+    "region": "Malmö",
+    "monthlySalarySEK": 79363
+  },
+  {
+    "firstName": "Edith",
+    "lastName": "Wiklund",
+    "gender": "female",
+    "age": 46,
+    "region": "Göteborg",
+    "monthlySalarySEK": 73937
+  },
+  {
+    "firstName": "Folke",
+    "lastName": "Ljunggren",
+    "gender": "male",
+    "age": 23,
+    "region": "Malmö",
+    "monthlySalarySEK": 26614
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Nordberg",
+    "gender": "female",
+    "age": 45,
+    "region": "Göteborg",
+    "monthlySalarySEK": 57054
+  },
+  {
+    "firstName": "Stella",
+    "lastName": "Berggren",
+    "gender": "female",
+    "age": 32,
+    "region": "Göteborg",
+    "monthlySalarySEK": 40917
+  },
+  {
+    "firstName": "Esther",
+    "lastName": "Davidsson",
+    "gender": "female",
+    "age": 54,
+    "region": "Göteborg",
+    "monthlySalarySEK": 52538
+  },
+  {
+    "firstName": "Emilia",
+    "lastName": "Rydén",
+    "gender": "female",
+    "age": 53,
+    "region": "Göteborg",
+    "monthlySalarySEK": 108044
+  },
+  {
+    "firstName": "Ture",
+    "lastName": "Brännström",
+    "gender": "male",
+    "age": 51,
+    "region": "Stockholm",
+    "monthlySalarySEK": 79793
+  },
+  {
+    "firstName": "Aron",
+    "lastName": "Bergdahl",
+    "gender": "male",
+    "age": 23,
+    "region": "Göteborg",
+    "monthlySalarySEK": 21595
+  },
+  {
+    "firstName": "Kian",
+    "lastName": "Hansen",
+    "gender": "male",
+    "age": 32,
+    "region": "Stockholm",
+    "monthlySalarySEK": 52798
+  },
+  {
+    "firstName": "Milo",
+    "lastName": "Lindberg",
+    "gender": "male",
+    "age": 38,
+    "region": "Stockholm",
+    "monthlySalarySEK": 54564
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Jarl",
+    "gender": "female",
+    "age": 60,
+    "region": "Malmö",
+    "monthlySalarySEK": 55984
+  },
+  {
+    "firstName": "Eira",
+    "lastName": "Borgström",
+    "gender": "female",
+    "age": 20,
+    "region": "Göteborg",
+    "monthlySalarySEK": 31114
+  },
+  {
+    "firstName": "Ida",
+    "lastName": "Lind",
+    "gender": "female",
+    "age": 56,
+    "region": "Malmö",
+    "monthlySalarySEK": 74229
+  },
+  {
+    "firstName": "Sixten",
+    "lastName": "Molin",
+    "gender": "male",
+    "age": 60,
+    "region": "Göteborg",
+    "monthlySalarySEK": 130121
+  },
+  {
+    "firstName": "Noel",
+    "lastName": "Hermansson",
+    "gender": "male",
+    "age": 41,
+    "region": "Göteborg",
+    "monthlySalarySEK": 39705
+  },
+  {
+    "firstName": "Theo",
+    "lastName": "Jörgensen",
+    "gender": "male",
+    "age": 56,
+    "region": "Göteborg",
+    "monthlySalarySEK": 72920
+  },
+  {
+    "firstName": "Esther",
+    "lastName": "Johnsson",
+    "gender": "female",
+    "age": 30,
+    "region": "Göteborg",
+    "monthlySalarySEK": 41097
+  },
+  {
+    "firstName": "Levi",
+    "lastName": "Viberg",
+    "gender": "male",
+    "age": 23,
+    "region": "Göteborg",
+    "monthlySalarySEK": 33509
+  },
+  {
+    "firstName": "Tuva",
+    "lastName": "Engdahl",
+    "gender": "female",
+    "age": 48,
+    "region": "Göteborg",
+    "monthlySalarySEK": 63013
+  },
+  {
+    "firstName": "Loui",
+    "lastName": "Jörgensen",
+    "gender": "male",
+    "age": 52,
+    "region": "Göteborg",
+    "monthlySalarySEK": 48821
+  },
+  {
+    "firstName": "Omar",
+    "lastName": "Jönsson",
+    "gender": "male",
+    "age": 57,
+    "region": "Stockholm",
+    "monthlySalarySEK": 59368
+  },
+  {
+    "firstName": "Stina",
+    "lastName": "Ström",
+    "gender": "female",
+    "age": 57,
+    "region": "Göteborg",
+    "monthlySalarySEK": 31428
+  },
+  {
+    "firstName": "Meja",
+    "lastName": "Strandberg",
+    "gender": "female",
+    "age": 18,
+    "region": "Göteborg",
+    "monthlySalarySEK": 16617
+  },
+  {
+    "firstName": "Alve",
+    "lastName": "Kristiansson",
+    "gender": "male",
+    "age": 27,
+    "region": "Malmö",
+    "monthlySalarySEK": 30603
+  },
+  {
+    "firstName": "August",
+    "lastName": "Sjöstrand",
+    "gender": "male",
+    "age": 52,
+    "region": "Malmö",
+    "monthlySalarySEK": 43716
+  },
+  {
+    "firstName": "Märta",
+    "lastName": "Rydberg",
+    "gender": "female",
+    "age": 60,
+    "region": "Göteborg",
+    "monthlySalarySEK": 29241
+  },
+  {
+    "firstName": "Ester",
+    "lastName": "Ljunggren",
+    "gender": "female",
+    "age": 24,
+    "region": "Stockholm",
+    "monthlySalarySEK": 47146
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Svanberg",
+    "gender": "female",
+    "age": 44,
+    "region": "Malmö",
+    "monthlySalarySEK": 42432
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Johannesson",
+    "gender": "male",
+    "age": 43,
+    "region": "Malmö",
+    "monthlySalarySEK": 81185
+  },
+  {
+    "firstName": "Bonnie",
+    "lastName": "Borgström",
+    "gender": "female",
+    "age": 27,
+    "region": "Stockholm",
+    "monthlySalarySEK": 43010
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Berglund",
+    "gender": "male",
+    "age": 19,
+    "region": "Göteborg",
+    "monthlySalarySEK": 14744
+  },
+  {
+    "firstName": "Leah",
+    "lastName": "Axelsson",
+    "gender": "female",
+    "age": 46,
+    "region": "Malmö",
+    "monthlySalarySEK": 62288
+  },
+  {
+    "firstName": "Nova",
+    "lastName": "Wahlberg",
+    "gender": "female",
+    "age": 42,
+    "region": "Göteborg",
+    "monthlySalarySEK": 41711
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Hultman",
+    "gender": "female",
+    "age": 58,
+    "region": "Malmö",
+    "monthlySalarySEK": 106066
+  },
+  {
+    "firstName": "Alvin",
+    "lastName": "Gabrielsson",
+    "gender": "male",
+    "age": 51,
+    "region": "Göteborg",
+    "monthlySalarySEK": 77169
+  },
+  {
+    "firstName": "Thea",
+    "lastName": "Krantz",
+    "gender": "female",
+    "age": 41,
+    "region": "Stockholm",
+    "monthlySalarySEK": 70599
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Hagberg",
+    "gender": "male",
+    "age": 43,
+    "region": "Malmö",
+    "monthlySalarySEK": 32605
+  },
+  {
+    "firstName": "Ida",
+    "lastName": "Westlund",
+    "gender": "female",
+    "age": 29,
+    "region": "Göteborg",
+    "monthlySalarySEK": 56629
+  },
+  {
+    "firstName": "Ines",
+    "lastName": "Petersson",
+    "gender": "female",
+    "age": 19,
+    "region": "Stockholm",
+    "monthlySalarySEK": 31710
+  },
+  {
+    "firstName": "Ivar",
+    "lastName": "Lundell",
+    "gender": "male",
+    "age": 38,
+    "region": "Göteborg",
+    "monthlySalarySEK": 33946
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Hagberg",
+    "gender": "male",
+    "age": 18,
+    "region": "Malmö",
+    "monthlySalarySEK": 39252
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Börjesson",
+    "gender": "male",
+    "age": 58,
+    "region": "Malmö",
+    "monthlySalarySEK": 110361
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Lundmark",
+    "gender": "male",
+    "age": 25,
+    "region": "Malmö",
+    "monthlySalarySEK": 27816
+  },
+  {
+    "firstName": "Knut",
+    "lastName": "Hanna",
+    "gender": "male",
+    "age": 24,
+    "region": "Malmö",
+    "monthlySalarySEK": 61031
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Torstensson",
+    "gender": "female",
+    "age": 23,
+    "region": "Göteborg",
+    "monthlySalarySEK": 27257
+  },
+  {
+    "firstName": "Astrid",
+    "lastName": "Strandberg",
+    "gender": "female",
+    "age": 26,
+    "region": "Malmö",
+    "monthlySalarySEK": 33641
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "Stenberg",
+    "gender": "female",
+    "age": 32,
+    "region": "Göteborg",
+    "monthlySalarySEK": 57072
+  },
+  {
+    "firstName": "Elias",
+    "lastName": "Jansson",
+    "gender": "male",
+    "age": 38,
+    "region": "Göteborg",
+    "monthlySalarySEK": 54767
+  },
+  {
+    "firstName": "Hjalmar",
+    "lastName": "Broström",
+    "gender": "male",
+    "age": 51,
+    "region": "Malmö",
+    "monthlySalarySEK": 85921
+  },
+  {
+    "firstName": "Ilse",
+    "lastName": "Ögren",
+    "gender": "female",
+    "age": 46,
+    "region": "Göteborg",
+    "monthlySalarySEK": 44749
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Malmberg",
+    "gender": "male",
+    "age": 27,
+    "region": "Stockholm",
+    "monthlySalarySEK": 24429
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "Edvardsson",
+    "gender": "female",
+    "age": 53,
+    "region": "Malmö",
+    "monthlySalarySEK": 77394
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Rask",
+    "gender": "male",
+    "age": 44,
+    "region": "Stockholm",
+    "monthlySalarySEK": 55835
+  },
+  {
+    "firstName": "Matheo",
+    "lastName": "Roth",
+    "gender": "male",
+    "age": 40,
+    "region": "Göteborg",
+    "monthlySalarySEK": 57064
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Berglund",
+    "gender": "male",
+    "age": 28,
+    "region": "Malmö",
+    "monthlySalarySEK": 29825
+  },
+  {
+    "firstName": "Erik",
+    "lastName": "Ivarsson",
+    "gender": "male",
+    "age": 58,
+    "region": "Göteborg",
+    "monthlySalarySEK": 54213
+  },
+  {
+    "firstName": "Klara",
+    "lastName": "Simonsson",
+    "gender": "female",
+    "age": 47,
+    "region": "Stockholm",
+    "monthlySalarySEK": 92374
+  },
+  {
+    "firstName": "Sally",
+    "lastName": "Adolfsson",
+    "gender": "female",
+    "age": 60,
+    "region": "Göteborg",
+    "monthlySalarySEK": 83216
+  },
+  {
+    "firstName": "Theo",
+    "lastName": "Carlsson",
+    "gender": "male",
+    "age": 62,
+    "region": "Malmö",
+    "monthlySalarySEK": 85343
+  },
+  {
+    "firstName": "Leona",
+    "lastName": "Lindqvist",
+    "gender": "female",
+    "age": 28,
+    "region": "Göteborg",
+    "monthlySalarySEK": 35506
+  },
+  {
+    "firstName": "Liv",
+    "lastName": "Hussein",
+    "gender": "female",
+    "age": 21,
+    "region": "Malmö",
+    "monthlySalarySEK": 24474
+  },
+  {
+    "firstName": "Idun",
+    "lastName": "Engvall",
+    "gender": "female",
+    "age": 60,
+    "region": "Malmö",
+    "monthlySalarySEK": 92004
+  },
+  {
+    "firstName": "Love",
+    "lastName": "Aronsson",
+    "gender": "male",
+    "age": 27,
+    "region": "Stockholm",
+    "monthlySalarySEK": 55828
+  },
+  {
+    "firstName": "Frans",
+    "lastName": "Hosseini",
+    "gender": "male",
+    "age": 44,
+    "region": "Stockholm",
+    "monthlySalarySEK": 52113
+  },
+  {
+    "firstName": "Ebba",
+    "lastName": "Lundmark",
+    "gender": "female",
+    "age": 50,
+    "region": "Göteborg",
+    "monthlySalarySEK": 49595
+  },
+  {
+    "firstName": "Folke",
+    "lastName": "Backlund",
+    "gender": "male",
+    "age": 33,
+    "region": "Stockholm",
+    "monthlySalarySEK": 41680
+  },
+  {
+    "firstName": "Nils",
+    "lastName": "Jönsson",
+    "gender": "male",
+    "age": 56,
+    "region": "Stockholm",
+    "monthlySalarySEK": 80839
+  },
+  {
+    "firstName": "Loke",
+    "lastName": "Nord",
+    "gender": "male",
+    "age": 41,
+    "region": "Stockholm",
+    "monthlySalarySEK": 58171
+  },
+  {
+    "firstName": "Millie",
+    "lastName": "Sandell",
+    "gender": "female",
+    "age": 36,
+    "region": "Göteborg",
+    "monthlySalarySEK": 35949
+  },
+  {
+    "firstName": "Omar",
+    "lastName": "Emilsson",
+    "gender": "male",
+    "age": 45,
+    "region": "Malmö",
+    "monthlySalarySEK": 40142
+  },
+  {
+    "firstName": "Hilda",
+    "lastName": "Martinsson",
+    "gender": "female",
+    "age": 19,
+    "region": "Stockholm",
+    "monthlySalarySEK": 18913
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Stenström",
+    "gender": "female",
+    "age": 60,
+    "region": "Malmö",
+    "monthlySalarySEK": 47162
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Ferm",
+    "gender": "male",
+    "age": 41,
+    "region": "Göteborg",
+    "monthlySalarySEK": 32145
+  },
+  {
+    "firstName": "Ludwig",
+    "lastName": "Lundquist",
+    "gender": "male",
+    "age": 21,
+    "region": "Göteborg",
+    "monthlySalarySEK": 24087
+  },
+  {
+    "firstName": "Sigrid",
+    "lastName": "Sahlin",
+    "gender": "female",
+    "age": 60,
+    "region": "Malmö",
+    "monthlySalarySEK": 81824
+  },
+  {
+    "firstName": "Lova",
+    "lastName": "Holmberg",
+    "gender": "female",
+    "age": 53,
+    "region": "Göteborg",
+    "monthlySalarySEK": 96938
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Nordin",
+    "gender": "male",
+    "age": 35,
+    "region": "Stockholm",
+    "monthlySalarySEK": 64350
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Sjöblom",
+    "gender": "male",
+    "age": 52,
+    "region": "Stockholm",
+    "monthlySalarySEK": 47987
+  },
+  {
+    "firstName": "Ingrid",
+    "lastName": "Ahlström",
+    "gender": "female",
+    "age": 51,
+    "region": "Malmö",
+    "monthlySalarySEK": 98424
+  },
+  {
+    "firstName": "Axel",
+    "lastName": "Lindquist",
+    "gender": "male",
+    "age": 55,
+    "region": "Stockholm",
+    "monthlySalarySEK": 75963
+  },
+  {
+    "firstName": "Arvid",
+    "lastName": "Lindqvist",
+    "gender": "male",
+    "age": 42,
+    "region": "Göteborg",
+    "monthlySalarySEK": 80419
+  },
+  {
+    "firstName": "Adrian",
+    "lastName": "Pedersen",
+    "gender": "male",
+    "age": 49,
+    "region": "Göteborg",
+    "monthlySalarySEK": 80293
+  },
+  {
+    "firstName": "Alicia",
+    "lastName": "Landin",
+    "gender": "female",
+    "age": 58,
+    "region": "Göteborg",
+    "monthlySalarySEK": 71520
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Malmgren",
+    "gender": "female",
+    "age": 51,
+    "region": "Malmö",
+    "monthlySalarySEK": 97138
+  },
+  {
+    "firstName": "Hilma",
+    "lastName": "Larsen",
+    "gender": "female",
+    "age": 21,
+    "region": "Stockholm",
+    "monthlySalarySEK": 41286
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Rasmussen",
+    "gender": "male",
+    "age": 53,
+    "region": "Malmö",
+    "monthlySalarySEK": 54877
+  },
+  {
+    "firstName": "Leia",
+    "lastName": "Birgersson",
+    "gender": "female",
+    "age": 25,
+    "region": "Stockholm",
+    "monthlySalarySEK": 29695
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Wahlgren",
+    "gender": "male",
+    "age": 50,
+    "region": "Malmö",
+    "monthlySalarySEK": 99124
+  },
+  {
+    "firstName": "Amir",
+    "lastName": "Svensson",
+    "gender": "male",
+    "age": 60,
+    "region": "Göteborg",
+    "monthlySalarySEK": 108536
+  },
+  {
+    "firstName": "Amir",
+    "lastName": "Petersson",
+    "gender": "male",
+    "age": 29,
+    "region": "Göteborg",
+    "monthlySalarySEK": 64473
+  },
+  {
+    "firstName": "Esther",
+    "lastName": "Asplund",
+    "gender": "female",
+    "age": 38,
+    "region": "Stockholm",
+    "monthlySalarySEK": 81379
+  },
+  {
+    "firstName": "Ture",
+    "lastName": "Martinsson",
+    "gender": "male",
+    "age": 44,
+    "region": "Göteborg",
+    "monthlySalarySEK": 26100
+  },
+  {
+    "firstName": "Linnéa",
+    "lastName": "Christensen",
+    "gender": "female",
+    "age": 62,
+    "region": "Göteborg",
+    "monthlySalarySEK": 54447
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Davidsson",
+    "gender": "female",
+    "age": 26,
+    "region": "Göteborg",
+    "monthlySalarySEK": 42523
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Norberg",
+    "gender": "male",
+    "age": 28,
+    "region": "Göteborg",
+    "monthlySalarySEK": 28504
+  },
+  {
+    "firstName": "Eira",
+    "lastName": "Ivarsson",
+    "gender": "female",
+    "age": 41,
+    "region": "Malmö",
+    "monthlySalarySEK": 42746
+  },
+  {
+    "firstName": "Kian",
+    "lastName": "Ivarsson",
+    "gender": "male",
+    "age": 35,
+    "region": "Stockholm",
+    "monthlySalarySEK": 70032
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Westlund",
+    "gender": "male",
+    "age": 47,
+    "region": "Stockholm",
+    "monthlySalarySEK": 103236
+  },
+  {
+    "firstName": "Ines",
+    "lastName": "Holm",
+    "gender": "female",
+    "age": 43,
+    "region": "Göteborg",
+    "monthlySalarySEK": 60953
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Nguyen",
+    "gender": "male",
+    "age": 26,
+    "region": "Malmö",
+    "monthlySalarySEK": 26371
+  },
+  {
+    "firstName": "Elise",
+    "lastName": "Asp",
+    "gender": "female",
+    "age": 37,
+    "region": "Stockholm",
+    "monthlySalarySEK": 28746
+  },
+  {
+    "firstName": "Melina",
+    "lastName": "Holm",
+    "gender": "female",
+    "age": 48,
+    "region": "Stockholm",
+    "monthlySalarySEK": 47732
+  },
+  {
+    "firstName": "Loke",
+    "lastName": "Borgström",
+    "gender": "male",
+    "age": 55,
+    "region": "Malmö",
+    "monthlySalarySEK": 49946
+  },
+  {
+    "firstName": "Alva",
+    "lastName": "Kristiansson",
+    "gender": "female",
+    "age": 20,
+    "region": "Göteborg",
+    "monthlySalarySEK": 41581
+  },
+  {
+    "firstName": "Ebbe",
+    "lastName": "Alfredsson",
+    "gender": "male",
+    "age": 47,
+    "region": "Stockholm",
+    "monthlySalarySEK": 48570
+  },
+  {
+    "firstName": "Stella",
+    "lastName": "Osman",
+    "gender": "female",
+    "age": 31,
+    "region": "Göteborg",
+    "monthlySalarySEK": 60155
+  },
+  {
+    "firstName": "Iris",
+    "lastName": "Sjöberg",
+    "gender": "female",
+    "age": 39,
+    "region": "Malmö",
+    "monthlySalarySEK": 28263
+  },
+  {
+    "firstName": "Elise",
+    "lastName": "Forslund",
+    "gender": "female",
+    "age": 48,
+    "region": "Malmö",
+    "monthlySalarySEK": 38315
+  },
+  {
+    "firstName": "Albin",
+    "lastName": "Palm",
+    "gender": "male",
+    "age": 27,
+    "region": "Malmö",
+    "monthlySalarySEK": 55329
+  },
+  {
+    "firstName": "Milton",
+    "lastName": "Kjellberg",
+    "gender": "male",
+    "age": 46,
+    "region": "Stockholm",
+    "monthlySalarySEK": 34606
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Sjögren",
+    "gender": "female",
+    "age": 49,
+    "region": "Göteborg",
+    "monthlySalarySEK": 33021
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Blomberg",
+    "gender": "male",
+    "age": 56,
+    "region": "Malmö",
+    "monthlySalarySEK": 48195
+  },
+  {
+    "firstName": "Alma",
+    "lastName": "Strömberg",
+    "gender": "female",
+    "age": 53,
+    "region": "Stockholm",
+    "monthlySalarySEK": 71369
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Vestman",
+    "gender": "male",
+    "age": 55,
+    "region": "Göteborg",
+    "monthlySalarySEK": 86605
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Niklasson",
+    "gender": "male",
+    "age": 50,
+    "region": "Stockholm",
+    "monthlySalarySEK": 60038
+  }
+]
